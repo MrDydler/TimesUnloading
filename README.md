@@ -1,6 +1,6 @@
 # TimesUnloading
 
-В директории с проектом нужно создать файл config.txt со следующим телом
+В директории с проектом нужно создать файл config.txt и заполнить необходимые переменные
 
 
 [DEFAULT]
@@ -23,3 +23,10 @@ end_date = 2023-09-09
 api_key = можно узнать в настройках профиля
 
 
+[PostgreSQL]
+
+host = 127.0.0.1
+user = postgres
+password = pass
+db_name = test
+port = 5432
