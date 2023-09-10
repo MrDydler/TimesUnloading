@@ -1,0 +1,1372 @@
+[
+  {
+    "Card ID": 12940512,
+    "Card Name": "Переносим на бой \"Переоценку\"",
+    "User": "Пётр Батлук",
+    "User's Email": "petr@web-regata.ru",
+    "User Role": "petr5",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        63790
+      ],
+      "id_198397": "Откуда пришел запрос?"
+    },
+    "Card Type": "Доработка клиент ",
+    "Space": "#Внедрение",
+    "Time_spent": 4,
+    "Time_spent_with_hours": "00:04"
+  },
+  {
+    "Card ID": 10930921,
+    "Card Name": "Подключение и интеграция онлайн-чата Jivo  через интеграционную платформу MoreKIT с функционалом распределения по правилам, группам и расписанию пользователей (до 10 пользователей)",
+    "User": "Роман Балуков",
+    "User's Email": "roman@web-regata.ru",
+    "User Role": "roman23",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_177662": {
+        "date": "2023-09-10",
+        "time": null,
+        "tzOffset": null
+      },
+      "id_181703": [
+        56157
+      ]
+    },
+    "Card Type": "Внедрение",
+    "Space": "DVA Group/ДВА групп",
+    "Time_spent": 171,
+    "Time_spent_with_hours": "02:51"
+  },
+  {
+    "Card ID": 16862646,
+    "Card Name": "СКБ-Техно",
+    "User": "Михаил Лаптов",
+    "User's Email": "laptov@web-regata.ru",
+    "User Role": "laptov",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        56157
+      ]
+    },
+    "Card Type": "Card",
+    "Space": "DVA Group/ДВА групп",
+    "Time_spent": 834,
+    "Time_spent_with_hours": "13:54"
+  },
+  {
+    "Card ID": 18567406,
+    "Card Name": "Подключение  короткого номера",
+    "User": "Михаил Лаптов",
+    "User's Email": "laptov@web-regata.ru",
+    "User Role": "laptov",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        56157
+      ]
+    },
+    "Card Type": "Card",
+    "Space": "DVA Group/ДВА групп",
+    "Time_spent": 91,
+    "Time_spent_with_hours": "01:31"
+  },
+  {
+    "Card ID": 18748532,
+    "Card Name": "СМС рассылка",
+    "User": "Роман Балуков",
+    "User's Email": "roman@web-regata.ru",
+    "User Role": "roman23",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        56157
+      ]
+    },
+    "Card Type": "Card",
+    "Space": "DVA Group/ДВА групп",
+    "Time_spent": 4,
+    "Time_spent_with_hours": "00:04"
+  },
+  {
+    "Card ID": 10974671,
+    "Card Name": "Общая планерка",
+    "User": "Роман Балуков",
+    "User's Email": "roman@web-regata.ru",
+    "User Role": "roman23",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        72140
+      ]
+    },
+    "Card Type": "Card",
+    "Space": "#Административные решения",
+    "Time_spent": 535,
+    "Time_spent_with_hours": "08:55"
+  },
+  {
+    "Card ID": 16187915,
+    "Card Name": "Обновление поля бюджет",
+    "User": "Мария Никифорова",
+    "User's Email": "m.nikiforova@web-regata.ru",
+    "User Role": "m_nikiforova5",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        54941
+      ],
+      "id_198397": "Откуда пришел запрос?"
+    },
+    "Card Type": "Доработка клиент ",
+    "Space": "#Внедрение",
+    "Time_spent": 19,
+    "Time_spent_with_hours": "00:19"
+  },
+  {
+    "Card ID": 16645913,
+    "Card Name": "Добавить условие",
+    "User": "Мария Никифорова",
+    "User's Email": "m.nikiforova@web-regata.ru",
+    "User Role": "m_nikiforova5",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        54941
+      ],
+      "id_198397": "Откуда пришел запрос?"
+    },
+    "Card Type": "Card",
+    "Space": "#Внедрение",
+    "Time_spent": 36,
+    "Time_spent_with_hours": "00:36"
+  },
+  {
+    "Card ID": 16731164,
+    "Card Name": "Новое мероприятие - HR_Саммит",
+    "User": "Андрей Дакалов",
+    "User's Email": "a.dakalov@web-regata.ru",
+    "User Role": "a_dakalov",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        54941
+      ],
+      "id_198397": "Откуда пришел запрос?"
+    },
+    "Card Type": "Доработка клиент ",
+    "Space": "#Внедрение",
+    "Time_spent": 202,
+    "Time_spent_with_hours": "03:22"
+  },
+  {
+    "Card ID": 18618665,
+    "Card Name": "Документооборот",
+    "User": "Василий Матрюк",
+    "User's Email": "matruk.v@web-regata.ru",
+    "User Role": "matruk_v",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_198397": "Откуда пришел запрос?"
+    },
+    "Card Type": "Сопровождение",
+    "Space": "#Внедрение",
+    "Time_spent": 47,
+    "Time_spent_with_hours": "00:47"
+  },
+  {
+    "Card ID": 17682070,
+    "Card Name": "Правки 1С",
+    "User": "Роман Балуков",
+    "User's Email": "roman@web-regata.ru",
+    "User Role": "roman23",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        54932
+      ]
+    },
+    "Card Type": "Card",
+    "Space": "Прометей",
+    "Time_spent": 151,
+    "Time_spent_with_hours": "02:31"
+  },
+  {
+    "Card ID": 11338950,
+    "Card Name": "ТНФ - События ЛК",
+    "User": "Пётр Батлук",
+    "User's Email": "petr@web-regata.ru",
+    "User Role": "petr5",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        54941
+      ]
+    },
+    "Card Type": "Card",
+    "Space": "#Внедрение",
+    "Time_spent": 2126,
+    "Time_spent_with_hours": "35:26"
+  },
+  {
+    "Card ID": 18204164,
+    "Card Name": "Интеграция FB Дубльдом",
+    "User": "Андрей Дакалов",
+    "User's Email": "a.dakalov@web-regata.ru",
+    "User Role": "a_dakalov",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        54916
+      ],
+      "id_198397": "Откуда пришел запрос?"
+    },
+    "Card Type": "Card",
+    "Space": "#Внедрение",
+    "Time_spent": 457,
+    "Time_spent_with_hours": "07:37"
+  },
+  {
+    "Card ID": 11045172,
+    "Card Name": "Переговорка/зумы по рабочим моментам",
+    "User": "",
+    "User's Email": "",
+    "User Role": "",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        72140
+      ]
+    },
+    "Card Type": "Card",
+    "Space": "#Административные решения",
+    "Time_spent": 1207,
+    "Time_spent_with_hours": "20:07"
+  },
+  {
+    "Card ID": 18682415,
+    "Card Name": "Atlas телефония",
+    "User": "Михаил Лаптов",
+    "User's Email": "laptov@web-regata.ru",
+    "User Role": "laptov",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        55023
+      ]
+    },
+    "Card Type": "Card",
+    "Space": "#СТП",
+    "Time_spent": 393,
+    "Time_spent_with_hours": "06:33"
+  },
+  {
+    "Card ID": 18408348,
+    "Card Name": "Разные задачи",
+    "User": "Михаил Лаптов",
+    "User's Email": "laptov@web-regata.ru",
+    "User Role": "laptov",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        56157
+      ]
+    },
+    "Card Type": "Card",
+    "Space": "DVA Group/ДВА групп",
+    "Time_spent": 640,
+    "Time_spent_with_hours": "10:40"
+  },
+  {
+    "Card ID": 17778144,
+    "Card Name": "Новые сделки ЕРЗ",
+    "User": "",
+    "User's Email": "",
+    "User Role": "",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        54946
+      ]
+    },
+    "Card Type": "Card",
+    "Space": "Web-Regata",
+    "Time_spent": 181,
+    "Time_spent_with_hours": "03:01"
+  },
+  {
+    "Card ID": 10927565,
+    "Card Name": "разбор задач в Kaiten -- по ЕРЗ",
+    "User": "Андрей Дакалов",
+    "User's Email": "a.dakalov@web-regata.ru",
+    "User Role": "a_dakalov",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        72140
+      ]
+    },
+    "Card Type": "Card",
+    "Space": "#Административные решения",
+    "Time_spent": 2341,
+    "Time_spent_with_hours": "39:01"
+  },
+  {
+    "Card ID": 18607263,
+    "Card Name": "Выгрузка таблицы звонков из 1С для передачи в КЦ",
+    "User": "Пётр Батлук",
+    "User's Email": "petr@web-regata.ru",
+    "User Role": "petr5",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        54932
+      ]
+    },
+    "Card Type": "Card",
+    "Space": "Прометей",
+    "Time_spent": 256,
+    "Time_spent_with_hours": "04:16"
+  },
+  {
+    "Card ID": 17779823,
+    "Card Name": "Ежедневный стендап",
+    "User": "",
+    "User's Email": "",
+    "User Role": "",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        72140
+      ]
+    },
+    "Card Type": "Card",
+    "Space": "#Административные решения",
+    "Time_spent": 718,
+    "Time_spent_with_hours": "11:58"
+  },
+  {
+    "Card ID": 18687255,
+    "Card Name": "Проблема с исходящими FMC",
+    "User": "Роман Балуков",
+    "User's Email": "roman@web-regata.ru",
+    "User Role": "roman23",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        56157
+      ]
+    },
+    "Card Type": "Card",
+    "Space": "DVA Group/ДВА групп",
+    "Time_spent": 48,
+    "Time_spent_with_hours": "00:48"
+  },
+  {
+    "Card ID": 17209657,
+    "Card Name": "Тегирование сделок",
+    "User": "Андрей Дакалов",
+    "User's Email": "a.dakalov@web-regata.ru",
+    "User Role": "a_dakalov",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        54941
+      ],
+      "id_198397": "Откуда пришел запрос?"
+    },
+    "Card Type": "Доработка клиент ",
+    "Space": "#Внедрение",
+    "Time_spent": 58,
+    "Time_spent_with_hours": "00:58"
+  },
+  {
+    "Card ID": 16338461,
+    "Card Name": "База ЕРЗ - работа с ней",
+    "User": "Андрей Дакалов",
+    "User's Email": "a.dakalov@web-regata.ru",
+    "User Role": "a_dakalov",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        54946
+      ]
+    },
+    "Card Type": "Card",
+    "Space": "Web-Regata",
+    "Time_spent": 576,
+    "Time_spent_with_hours": "09:36"
+  },
+  {
+    "Card ID": 10898009,
+    "Card Name": "разбор тиктов еадеск",
+    "User": "Андрей Дакалов",
+    "User's Email": "a.dakalov@web-regata.ru",
+    "User Role": "a_dakalov",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        72140
+      ]
+    },
+    "Card Type": "Card",
+    "Space": "#Административные решения",
+    "Time_spent": 3114,
+    "Time_spent_with_hours": "51:54"
+  },
+  {
+    "Card ID": 15943698,
+    "Card Name": "МСК-ДОН (обновление тегов)",
+    "User": "Пётр Батлук",
+    "User's Email": "petr@web-regata.ru",
+    "User Role": "petr5",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        58031
+      ],
+      "id_198397": "Откуда пришел запрос?"
+    },
+    "Card Type": "Доработка сервис",
+    "Space": "#Внедрение",
+    "Time_spent": 68,
+    "Time_spent_with_hours": "01:08"
+  },
+  {
+    "Card ID": 16752757,
+    "Card Name": "Интеграция с сайтом \n tnfforum2023.ru",
+    "User": "Андрей Дакалов",
+    "User's Email": "a.dakalov@web-regata.ru",
+    "User Role": "a_dakalov",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        54941
+      ],
+      "id_198397": "Откуда пришел запрос?"
+    },
+    "Card Type": "Доработка клиент ",
+    "Space": "#Внедрение",
+    "Time_spent": 163,
+    "Time_spent_with_hours": "02:43"
+  },
+  {
+    "Card ID": 13568901,
+    "Card Name": "Задача по ICS для PM",
+    "User": "Анрей Губашов",
+    "User's Email": "a.gubashev@web-regata.ru",
+    "User Role": "a_gubashev",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        72140
+      ],
+      "id_198397": "Откуда пришел запрос?"
+    },
+    "Card Type": "Card",
+    "Space": "#Внедрение",
+    "Time_spent": 208,
+    "Time_spent_with_hours": "03:28"
+  },
+  {
+    "Card ID": 15938870,
+    "Card Name": "МСК-ДОН (обновление описания)",
+    "User": "Пётр Батлук",
+    "User's Email": "petr@web-regata.ru",
+    "User Role": "petr5",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        58031
+      ],
+      "id_198397": "Откуда пришел запрос?"
+    },
+    "Card Type": "Card",
+    "Space": "#Внедрение",
+    "Time_spent": 103,
+    "Time_spent_with_hours": "01:43"
+  },
+  {
+    "Card ID": 16871620,
+    "Card Name": "Обновление МСК ДОН",
+    "User": "Пётр Батлук",
+    "User's Email": "petr@web-regata.ru",
+    "User Role": "petr5",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        58031
+      ],
+      "id_198397": "Откуда пришел запрос?"
+    },
+    "Card Type": "Доработка сервис",
+    "Space": "#Внедрение",
+    "Time_spent": 35,
+    "Time_spent_with_hours": "00:35"
+  },
+  {
+    "Card ID": 10918527,
+    "Card Name": "Создание и группировка дополнительных полей, включая настройки обязательности заполнения",
+    "User": "Михаил Лаптов",
+    "User's Email": "laptov@web-regata.ru",
+    "User Role": "laptov",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_179444": "https://miro.com/app/board/uXjVPQH-LYk=/?share_link_id=809921084596",
+      "id_181703": [
+        54913
+      ]
+    },
+    "Card Type": "Настройка",
+    "Space": "Seven Sunse development (SSD)",
+    "Time_spent": 674,
+    "Time_spent_with_hours": "11:14"
+  },
+  {
+    "Card ID": 13577360,
+    "Card Name": "Переоценка лотов",
+    "User": "Пётр Батлук",
+    "User's Email": "petr@web-regata.ru",
+    "User Role": "petr5",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        56157
+      ]
+    },
+    "Card Type": "Card",
+    "Space": "DVA Group/ДВА групп",
+    "Time_spent": 288,
+    "Time_spent_with_hours": "04:48"
+  },
+  {
+    "Card ID": 17377740,
+    "Card Name": "Контроль оплат рассрочки",
+    "User": "Пётр Батлук",
+    "User's Email": "petr@web-regata.ru",
+    "User Role": "petr5",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        56157
+      ]
+    },
+    "Card Type": "Card",
+    "Space": "DVA Group/ДВА групп",
+    "Time_spent": 24,
+    "Time_spent_with_hours": "00:24"
+  },
+  {
+    "Card ID": 18374831,
+    "Card Name": "MyBI - четверг",
+    "User": "Мария Никифорова",
+    "User's Email": "m.nikiforova@web-regata.ru",
+    "User Role": "m_nikiforova5",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": null,
+    "Card Type": "Card",
+    "Space": "#Административные решения",
+    "Time_spent": 29,
+    "Time_spent_with_hours": "00:29"
+  },
+  {
+    "Card ID": 13691156,
+    "Card Name": "Дашборд Web-Regata",
+    "User": "Мария Никифорова",
+    "User's Email": "m.nikiforova@web-regata.ru",
+    "User Role": "m_nikiforova5",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        54946
+      ]
+    },
+    "Card Type": "Card",
+    "Space": "Web-Regata",
+    "Time_spent": 834,
+    "Time_spent_with_hours": "13:54"
+  },
+  {
+    "Card ID": 16062920,
+    "Card Name": "Переезд сайта",
+    "User": "Пётр Батлук",
+    "User's Email": "petr@web-regata.ru",
+    "User Role": "petr5",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        55032
+      ]
+    },
+    "Card Type": "Card",
+    "Space": "Святой Михаил",
+    "Time_spent": 209,
+    "Time_spent_with_hours": "03:29"
+  },
+  {
+    "Card ID": 18226375,
+    "Card Name": "Чистим номера телефонов",
+    "User": "Пётр Батлук",
+    "User's Email": "petr@web-regata.ru",
+    "User Role": "petr5",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        54946
+      ]
+    },
+    "Card Type": "Доработка клиент ",
+    "Space": "Web-Regata",
+    "Time_spent": 356,
+    "Time_spent_with_hours": "05:56"
+  },
+  {
+    "Card ID": 12416729,
+    "Card Name": "Calltouch",
+    "User": "Роман Балуков",
+    "User's Email": "roman@web-regata.ru",
+    "User Role": "roman23",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        56157
+      ]
+    },
+    "Card Type": "Card",
+    "Space": "DVA Group/ДВА групп",
+    "Time_spent": 328,
+    "Time_spent_with_hours": "05:28"
+  },
+  {
+    "Card ID": 18098922,
+    "Card Name": "Виджет",
+    "User": "Мария Никифорова",
+    "User's Email": "m.nikiforova@web-regata.ru",
+    "User Role": "m_nikiforova5",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        54941
+      ],
+      "id_198397": "Откуда пришел запрос?"
+    },
+    "Card Type": "Card",
+    "Space": "#Внедрение",
+    "Time_spent": 436,
+    "Time_spent_with_hours": "07:16"
+  },
+  {
+    "Card ID": 15200271,
+    "Card Name": "БОЛЬШЕ ВОПРОСОВ ЧЕМ ОТВЕТОВ! Фид для Циан Акватория",
+    "User": "Пётр Батлук",
+    "User's Email": "petr@web-regata.ru",
+    "User Role": "petr5",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        58031
+      ],
+      "id_198397": "Откуда пришел запрос?"
+    },
+    "Card Type": "Card",
+    "Space": "#Внедрение",
+    "Time_spent": 947,
+    "Time_spent_with_hours": "15:47"
+  },
+  {
+    "Card ID": 17593929,
+    "Card Name": "Отчет по сделкам, у которых происходил исходящий КЦ",
+    "User": "Роман Балуков",
+    "User's Email": "roman@web-regata.ru",
+    "User Role": "roman23",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        54932
+      ]
+    },
+    "Card Type": "Card",
+    "Space": "Прометей",
+    "Time_spent": 45,
+    "Time_spent_with_hours": "00:45"
+  },
+  {
+    "Card ID": 17593670,
+    "Card Name": "Запрет оправки на исходящий обзвон КЦ по отдельному признаку",
+    "User": "Роман Балуков",
+    "User's Email": "roman@web-regata.ru",
+    "User Role": "roman23",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        54932
+      ]
+    },
+    "Card Type": "Card",
+    "Space": "Прометей",
+    "Time_spent": 51,
+    "Time_spent_with_hours": "00:51"
+  },
+  {
+    "Card ID": 18570821,
+    "Card Name": "МСКДон прогрузка в профит",
+    "User": "Михаил Лаптов",
+    "User's Email": "laptov@web-regata.ru",
+    "User Role": "laptov",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        58031
+      ],
+      "id_198397": "Откуда пришел запрос?"
+    },
+    "Card Type": "Card",
+    "Space": "#Внедрение",
+    "Time_spent": 135,
+    "Time_spent_with_hours": "02:15"
+  },
+  {
+    "Card ID": 18577988,
+    "Card Name": "не отработал скрипт на тильде",
+    "User": "Андрей Дакалов",
+    "User's Email": "a.dakalov@web-regata.ru",
+    "User Role": "a_dakalov",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        55022
+      ]
+    },
+    "Card Type": "Card",
+    "Space": "#СТП",
+    "Time_spent": 181,
+    "Time_spent_with_hours": "03:01"
+  },
+  {
+    "Card ID": 17373292,
+    "Card Name": "Синергия. Оптимизация полей и автоматизация",
+    "User": "Роман Балуков",
+    "User's Email": "roman@web-regata.ru",
+    "User Role": "roman23",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        55944
+      ],
+      "id_198397": "Откуда пришел запрос?"
+    },
+    "Card Type": "Card",
+    "Space": "#Внедрение",
+    "Time_spent": 139,
+    "Time_spent_with_hours": "02:19"
+  },
+  {
+    "Card ID": 10948788,
+    "Card Name": "Еженедельный зум по задачам",
+    "User": "Роман Балуков",
+    "User's Email": "roman@web-regata.ru",
+    "User Role": "roman23",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        54932
+      ]
+    },
+    "Card Type": "Сопровождение",
+    "Space": "Прометей",
+    "Time_spent": 280,
+    "Time_spent_with_hours": "04:40"
+  },
+  {
+    "Card ID": 18450344,
+    "Card Name": "Распределение",
+    "User": "Пётр Батлук",
+    "User's Email": "petr@web-regata.ru",
+    "User Role": "petr5",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        54946
+      ]
+    },
+    "Card Type": "Card",
+    "Space": "Web-Regata",
+    "Time_spent": 40,
+    "Time_spent_with_hours": "00:40"
+  },
+  {
+    "Card ID": 18520564,
+    "Card Name": "Проверка moreFeed",
+    "User": "Пётр Батлук",
+    "User's Email": "petr@web-regata.ru",
+    "User Role": "petr5",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        55032
+      ]
+    },
+    "Card Type": "Card",
+    "Space": "Святой Михаил",
+    "Time_spent": 104,
+    "Time_spent_with_hours": "01:44"
+  },
+  {
+    "Card ID": 17789332,
+    "Card Name": "Внедрение формы Тех.дней",
+    "User": "Пётр Батлук",
+    "User's Email": "petr@web-regata.ru",
+    "User Role": "petr5",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        54941
+      ],
+      "id_198397": "Откуда пришел запрос?"
+    },
+    "Card Type": "Доработка клиент ",
+    "Space": "#Внедрение",
+    "Time_spent": 248,
+    "Time_spent_with_hours": "04:08"
+  },
+  {
+    "Card ID": 18568716,
+    "Card Name": "Добавление тега Education",
+    "User": "Мария Никифорова",
+    "User's Email": "m.nikiforova@web-regata.ru",
+    "User Role": "m_nikiforova5",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        54941
+      ],
+      "id_198397": "Откуда пришел запрос?"
+    },
+    "Card Type": "Card",
+    "Space": "#Внедрение",
+    "Time_spent": 126,
+    "Time_spent_with_hours": "02:06"
+  },
+  {
+    "Card ID": 18569845,
+    "Card Name": "Ошибки в 2.3.3",
+    "User": "Мария Никифорова",
+    "User's Email": "m.nikiforova@web-regata.ru",
+    "User Role": "m_nikiforova5",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        54941
+      ],
+      "id_198397": "Откуда пришел запрос?"
+    },
+    "Card Type": "Card",
+    "Space": "#Внедрение",
+    "Time_spent": 81,
+    "Time_spent_with_hours": "01:21"
+  },
+  {
+    "Card ID": 10930895,
+    "Card Name": "Подключение одного из сервисов СМС рассылки (SMS-Center, SMSRU) включая настройку шаблонов ответов и автоматизацию по рассылке",
+    "User": "Михаил Лаптов",
+    "User's Email": "laptov@web-regata.ru",
+    "User Role": "laptov",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_177662": {
+        "date": "2023-06-16",
+        "time": null,
+        "tzOffset": null
+      }
+    },
+    "Card Type": "Внедрение",
+    "Space": "DVA Group/ДВА групп",
+    "Time_spent": 297,
+    "Time_spent_with_hours": "04:57"
+  },
+  {
+    "Card ID": 11222003,
+    "Card Name": "Синергия. Зум по интеграции с сайтом + таблица с доступами для сотрудников",
+    "User": "Роман Балуков",
+    "User's Email": "roman@web-regata.ru",
+    "User Role": "roman23",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        55944
+      ]
+    },
+    "Card Type": "Card",
+    "Space": "#Внедрение",
+    "Time_spent": 114,
+    "Time_spent_with_hours": "01:54"
+  },
+  {
+    "Card ID": 17809253,
+    "Card Name": "Ньютон. Теги и барабан распределения",
+    "User": "Андрей Дакалов",
+    "User's Email": "a.dakalov@web-regata.ru",
+    "User Role": "a_dakalov",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        54920
+      ],
+      "id_198397": "[https://web.telegram.org/k/#-906355703](https://web.telegram.org/k/#-906355703)"
+    },
+    "Card Type": "Доработка клиент ",
+    "Space": "#Внедрение",
+    "Time_spent": 32,
+    "Time_spent_with_hours": "00:32"
+  },
+  {
+    "Card ID": 16431814,
+    "Card Name": "Отрисовка карты BPMN",
+    "User": "Пётр Батлук",
+    "User's Email": "petr@web-regata.ru",
+    "User Role": "petr5",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        56157
+      ]
+    },
+    "Card Type": "Отрисовка BPMN ",
+    "Space": "DVA Group/ДВА групп",
+    "Time_spent": 1747,
+    "Time_spent_with_hours": "29:07"
+  },
+  {
+    "Card ID": 11682020,
+    "Card Name": "СМСц",
+    "User": "Роман Балуков",
+    "User's Email": "roman@web-regata.ru",
+    "User Role": "roman23",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": null,
+    "Card Type": "Card",
+    "Space": "Seven Sunse development (SSD)",
+    "Time_spent": 95,
+    "Time_spent_with_hours": "01:35"
+  },
+  {
+    "Card ID": 17048452,
+    "Card Name": "смена казахстанского номера",
+    "User": "Инна Пильщикова",
+    "User's Email": "pilchikova.i@web-regata.ru",
+    "User Role": "ТрэвисКот",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        54916
+      ]
+    },
+    "Card Type": "Не реализовано ",
+    "Space": "#СТП",
+    "Time_spent": 45,
+    "Time_spent_with_hours": "00:45"
+  },
+  {
+    "Card ID": 18471822,
+    "Card Name": "ID записи Yclients неправильно записывались",
+    "User": "Инна Пильщикова",
+    "User's Email": "pilchikova.i@web-regata.ru",
+    "User Role": "ТрэвисКот",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        54918
+      ]
+    },
+    "Card Type": "Card",
+    "Space": "#СТП",
+    "Time_spent": 98,
+    "Time_spent_with_hours": "01:38"
+  },
+  {
+    "Card ID": 18202132,
+    "Card Name": "Написание регламента",
+    "User": "Андрей Дакалов",
+    "User's Email": "a.dakalov@web-regata.ru",
+    "User Role": "a_dakalov",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        54941
+      ],
+      "id_198397": "Откуда пришел запрос?"
+    },
+    "Card Type": "Card",
+    "Space": "#Внедрение",
+    "Time_spent": 234,
+    "Time_spent_with_hours": "03:54"
+  },
+  {
+    "Card ID": 17358256,
+    "Card Name": "Дублирующая интеграция с сайтом по почте",
+    "User": "Андрей Дакалов",
+    "User's Email": "a.dakalov@web-regata.ru",
+    "User Role": "a_dakalov",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        56157
+      ]
+    },
+    "Card Type": "Card",
+    "Space": "DVA Group/ДВА групп",
+    "Time_spent": 66,
+    "Time_spent_with_hours": "01:06"
+  },
+  {
+    "Card ID": 10628432,
+    "Card Name": "Исходящий обзвон КЦ",
+    "User": "Василий Матрюк",
+    "User's Email": "v.matruk@web-regata.ru",
+    "User Role": "v_matruk",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        54932
+      ]
+    },
+    "Card Type": "Card",
+    "Space": "Прометей",
+    "Time_spent": 743,
+    "Time_spent_with_hours": "12:23"
+  },
+  {
+    "Card ID": 17778202,
+    "Card Name": "Кнопка закрытие связанных сделок",
+    "User": "",
+    "User's Email": "",
+    "User Role": "",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        54946
+      ]
+    },
+    "Card Type": "Card",
+    "Space": "Web-Regata",
+    "Time_spent": 98,
+    "Time_spent_with_hours": "01:38"
+  },
+  {
+    "Card ID": 18446370,
+    "Card Name": "Не прикрепился контакт к карточке сделки",
+    "User": "Андрей Дакалов",
+    "User's Email": "a.dakalov@web-regata.ru",
+    "User Role": "a_dakalov",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        54941
+      ],
+      "id_198397": "Откуда пришел запрос?"
+    },
+    "Card Type": "Card",
+    "Space": "#Внедрение",
+    "Time_spent": 17,
+    "Time_spent_with_hours": "00:17"
+  },
+  {
+    "Card ID": 18455845,
+    "Card Name": "Подготовка к выходу кандидата",
+    "User": "Пётр Батлук",
+    "User's Email": "petr@web-regata.ru",
+    "User Role": "petr5",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        72140
+      ]
+    },
+    "Card Type": "Card",
+    "Space": "#Административные решения",
+    "Time_spent": 7,
+    "Time_spent_with_hours": "00:07"
+  },
+  {
+    "Card ID": 16759561,
+    "Card Name": "Мир чистоты сопоставить новые шаблоны доков",
+    "User": "Анрей Губашов",
+    "User's Email": "a.gubashev@web-regata.ru",
+    "User Role": "a_gubashev",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        54928
+      ]
+    },
+    "Card Type": "Реализовано",
+    "Space": "#СТП",
+    "Time_spent": 6,
+    "Time_spent_with_hours": "00:06"
+  },
+  {
+    "Card ID": 18414472,
+    "Card Name": "Проблемы со звонками",
+    "User": "Василий Матрюк",
+    "User's Email": "matruk.v@web-regata.ru",
+    "User Role": "matruk_v",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        56157
+      ]
+    },
+    "Card Type": "Card",
+    "Space": "#СТП",
+    "Time_spent": 37,
+    "Time_spent_with_hours": "00:37"
+  },
+  {
+    "Card ID": 10954303,
+    "Card Name": "Недвикс - переоценка",
+    "User": "Андрей Дакалов",
+    "User's Email": "a.dakalov@web-regata.ru",
+    "User Role": "a_dakalov",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        63790
+      ],
+      "id_198397": "Откуда пришел запрос?"
+    },
+    "Card Type": "Доработка клиент ",
+    "Space": "#Внедрение",
+    "Time_spent": 1145,
+    "Time_spent_with_hours": "19:05"
+  },
+  {
+    "Card ID": 17795535,
+    "Card Name": "Не прокидывается аналитика по виджету генезиса",
+    "User": "Роман Балуков",
+    "User's Email": "roman@web-regata.ru",
+    "User Role": "roman23",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        54932
+      ]
+    },
+    "Card Type": "Не реализовано ",
+    "Space": "Прометей",
+    "Time_spent": 15,
+    "Time_spent_with_hours": "00:15"
+  },
+  {
+    "Card ID": 18411710,
+    "Card Name": "Разбор задач",
+    "User": "Роман Балуков",
+    "User's Email": "roman@web-regata.ru",
+    "User Role": "roman23",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        54946
+      ]
+    },
+    "Card Type": "Card",
+    "Space": "#Административные решения",
+    "Time_spent": 30,
+    "Time_spent_with_hours": "00:30"
+  },
+  {
+    "Card ID": 10817053,
+    "Card Name": "Интеграция с сайтом через почту ",
+    "User": "Пётр Батлук",
+    "User's Email": "petr@web-regata.ru",
+    "User Role": "petr5",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        55024
+      ]
+    },
+    "Card Type": "Доработка клиент ",
+    "Space": "Sense/Сенс",
+    "Time_spent": 20,
+    "Time_spent_with_hours": "00:20"
+  },
+  {
+    "Card ID": 10708647,
+    "Card Name": "Не попадают заявки с формы сайта",
+    "User": "Роман Балуков",
+    "User's Email": "roman@web-regata.ru",
+    "User Role": "roman23",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        54932
+      ]
+    },
+    "Card Type": "Не реализовано ",
+    "Space": "Прометей",
+    "Time_spent": 37,
+    "Time_spent_with_hours": "00:37"
+  },
+  {
+    "Card ID": 12067928,
+    "Card Name": "Расчет выручки идет только по 2м источникам",
+    "User": "Роман Балуков",
+    "User's Email": "roman@web-regata.ru",
+    "User Role": "roman23",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        54932
+      ]
+    },
+    "Card Type": "Card",
+    "Space": "Прометей",
+    "Time_spent": 32,
+    "Time_spent_with_hours": "00:32"
+  },
+  {
+    "Card ID": 12699876,
+    "Card Name": "Виджет генезиса",
+    "User": "Анрей Губашов",
+    "User's Email": "a.gubashev@web-regata.ru",
+    "User Role": "a_gubashev",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        54932
+      ]
+    },
+    "Card Type": "Card",
+    "Space": "Прометей",
+    "Time_spent": 17,
+    "Time_spent_with_hours": "00:17"
+  },
+  {
+    "Card ID": 12493963,
+    "Card Name": "Интеграция по хукам",
+    "User": "Михаил Лаптов",
+    "User's Email": "laptov@web-regata.ru",
+    "User Role": "laptov",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        56157
+      ]
+    },
+    "Card Type": "Не реализовано ",
+    "Space": "DVA Group/ДВА групп",
+    "Time_spent": 162,
+    "Time_spent_with_hours": "02:42"
+  },
+  {
+    "Card ID": 12218078,
+    "Card Name": "Интеграция Смартдил в Базис",
+    "User": "Роман Балуков",
+    "User's Email": "roman@web-regata.ru",
+    "User Role": "roman23",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        56157
+      ]
+    },
+    "Card Type": "Не реализовано ",
+    "Space": "DVA Group/ДВА групп",
+    "Time_spent": 216,
+    "Time_spent_with_hours": "03:36"
+  },
+  {
+    "Card ID": 15130227,
+    "Card Name": "Обновление данных из PB при бронировании",
+    "User": "Пётр Батлук",
+    "User's Email": "petr@web-regata.ru",
+    "User Role": "petr5",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        56157
+      ]
+    },
+    "Card Type": "Доработка клиент ",
+    "Space": "DVA Group/ДВА групп",
+    "Time_spent": 63,
+    "Time_spent_with_hours": "01:03"
+  }
+]
