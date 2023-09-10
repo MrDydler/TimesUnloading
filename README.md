@@ -26,7 +26,12 @@ api_key = можно узнать в настройках профиля
 [PostgreSQL]
 
 host = 127.0.0.1
+
 user = postgres
+
 password = pass
+
 db_name = test
+
 port = 5432
+
