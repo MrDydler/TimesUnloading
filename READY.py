@@ -394,4 +394,4 @@ finally:
     if connection:
         connection.close()
         print("Соединение разорвано, выполнение успешно")
-        
+        input()
