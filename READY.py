@@ -3,7 +3,7 @@ from base64 import b64encode
 import json
 from datetime import datetime, timedelta
 
-from postgres_cfg import postgres_toggle, create_kaiten_times_table
+from postgres_cfg import postgres_toggle, create_kaiten_times_table, create_data_kaiten_table
 import psycopg2
 from postgres_cfg import user, password, db_name, host, port
 import configparser
@@ -24,12 +24,19 @@ print("api_key ", api_key)
 print("start_date ", start_date)
 print("end_date ", end_date)
 
+host = config.get("POSTGRES", "host")
+user = config.get("POSTGRES", "user")
+password = config.get("POSTGRES", "password")
+db_name = config.get("POSTGRES", "db_name")
+port = config.get("POSTGRES", "port")
+
+
 #Название таблиц, которые буду созданы в postgres и пути к json'ам
 toggle_table_name = 'toggl'
 report_toggle_path = 'report_toggle.json'
 
 kaiten_data_tabble_name = 'kaiten_data'
-kaiten_data_json_path = 'structured_time.json'
+kaiten_data_json_path = 'dataKaiten.json'
 
 kaiten_times_tabble_name = 'kaiten_times'
 kaiten_times_json_path = 'structured_time.json'
@@ -216,7 +223,7 @@ if response.status_code == 200:
         #     print("data =", data)
 
         print("Ответ 200")
-
+        print("Выполнение скрипта ...")
     except Exception as e:
         print("ошибка декодинга json:", e)
 
@@ -374,7 +381,10 @@ try:
         print("postgres_toggle выполнено")
         
         create_kaiten_times_table(kaiten_times_tabble_name, kaiten_times_json_path)
-
+        print("create_kaiten_times_table выполнено")
+        
+        create_data_kaiten_table(kaiten_data_tabble_name, kaiten_data_json_path)
+        print("create_data_kaiten_table выполнено")
         
         
         pass
@@ -383,4 +393,5 @@ except Exception as _ex:
 finally:
     if connection:
         connection.close()
-        print("Соединение разорвано")
+        print("Соединение разорвано, выполнение успешно")
+        
