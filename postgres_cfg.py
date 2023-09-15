@@ -1,11 +1,33 @@
-host = "127.0.0.1"
-user = "postgres"
-password = "1337"
-db_name = "test1"
-port = 5432
-
 import psycopg2
 import json
+import configparser
+
+#from READY import host,user,password,db_name,port
+#configParser
+
+
+config = configparser.ConfigParser()
+config.read("config.txt")
+
+host = config.get("POSTGRES", "host")
+user = config.get("POSTGRES", "user")
+password = config.get("POSTGRES", "password")
+db_name = config.get("POSTGRES", "db_name")
+port = config.get("POSTGRES", "port")
+
+print(user)
+print(host)
+print(password)
+print(db_name)
+print(db_name)
+
+# host = config.read("host
+# user = "postgres"
+# password = "1337"
+# db_name = "postgres"
+# port = 5433
+
+
 
 
 def postgres_toggle(report_toggle_path, toggle_table_name):
@@ -102,7 +124,7 @@ def create_kaiten_times_table(kaiten_times_table_name, kaiten_times_json_path):
         """
 
         cursor.execute(create_sql)
-        print(f'Table {kaiten_times_table_name} created')
+        print(f'Таблица {kaiten_times_table_name} создана')
 
         # Читаем данные из джсона и заполняем (structured_time.json)
         with open(kaiten_times_json_path, "r") as json_file:
@@ -139,9 +161,74 @@ def create_kaiten_times_table(kaiten_times_table_name, kaiten_times_json_path):
             print("create_kaiten_times_table соединение закрыто")
 
 
-kaiten_times_tabble_name = 'kaiten_times'
-kaiten_times_json_path = 'structured_time.json'
-create_kaiten_times_table(kaiten_times_tabble_name, kaiten_times_json_path)
+# kaiten_times_tabble_name = 'kaiten_times'
+# kaiten_times_json_path = 'structured_time.json'
+# create_kaiten_times_table(kaiten_times_tabble_name, kaiten_times_json_path)
     
+#dataKaiten.json
+def create_data_kaiten_table(kaiten_data_tabble_name, kaiten_data_json_path):
+    connection = None
+    cursor = None
+    
+    try:
+        connection = psycopg2.connect(host=host, port=port, user=user, password=password, dbname=db_name)
+        cursor = connection.cursor()
+        
+        drop_sql = f"DROP TABLE IF EXISTS {kaiten_data_tabble_name} CASCADE"
+        cursor.execute(drop_sql)
+        connection.commit()
+        
+        create_sql = f"""
+        CREATE TABLE {kaiten_data_tabble_name} (
+            id SERIAL PRIMARY KEY,
+            Card_id INTEGER,
+            Card_Name TEXT,
+            username NAME,
+            User_email TEXT,
+            User_role TEXT,
+            comment TEXT,
+            space TEXT,
+            time INTEGER,
+            Time_spent_with_hours TEXT
+        )
+        """
+        cursor.execute(create_sql)
+        print(f"Таблица {kaiten_data_tabble_name} создана")
+        
+        with open(kaiten_data_json_path, "r") as json_file:
+            data_kaiten = json.load(json_file)
+            
+            for card_data in data_kaiten:
+                card_id = card_data["Card ID"]
+                card_name = card_data["Card Name"]
+                username = card_data["User"]
+                user_email = card_data["User's Email"]
+                user_role = card_data["User Role"]
+                comment = card_data["Comment"]
+                space = card_data["Space"]
+                time = card_data["Time_spent"]
+                time_spent_with_hours = card_data["Time_spent_with_hours"]
+                
+                insert_sql = f"""
+                INSERT INTO {kaiten_data_tabble_name} (Card_id, Card_Name, username, User_email, User_role, comment, space, time, Time_spent_with_hours)
+                VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s)
+                """
+                cursor.execute(insert_sql, (card_id, card_name, username, user_email, user_role, comment, space, time, time_spent_with_hours))
+                connection.commit()
+        
+        print(f"{kaiten_data_tabble_name} таблица успешно создана в postgres")
+        
+    except Exception as ex:
+        print("[INFO] Error connecting to PostgreSQL:", ex)
+        
+    finally:
+        if cursor:
+            cursor.close()
+        if connection:
+            connection.close()
+            print("create_data_kaiten_table функция соединение закрыто")
 
 
+# kaiten_data_tabble_name = "data_kaiten"
+# kaiten_data_json_path = "dataKaiten.json"
+# create_data_kaiten_table(kaiten_data_tabble_name, kaiten_data_json_path)
