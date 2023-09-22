@@ -229,7 +229,7 @@
     "recurring_parameters": null,
     "current_period": null,
     "fixed_fee": null,
-    "actual_hours": 53,
+    "actual_hours": 54,
     "wid": 5821463,
     "cid": null
   },
@@ -1139,7 +1139,7 @@
     "recurring_parameters": null,
     "current_period": null,
     "fixed_fee": null,
-    "actual_hours": 751,
+    "actual_hours": 762,
     "wid": 5821463,
     "cid": null
   },
@@ -1217,7 +1217,7 @@
     "recurring_parameters": null,
     "current_period": null,
     "fixed_fee": null,
-    "actual_hours": 242,
+    "actual_hours": 244,
     "wid": 5821463,
     "cid": null
   },
@@ -1295,7 +1295,7 @@
     "recurring_parameters": null,
     "current_period": null,
     "fixed_fee": null,
-    "actual_hours": 249,
+    "actual_hours": 250,
     "wid": 5821463,
     "cid": null
   },
@@ -1945,7 +1945,7 @@
     "recurring_parameters": null,
     "current_period": null,
     "fixed_fee": null,
-    "actual_hours": 137,
+    "actual_hours": 138,
     "wid": 5821463,
     "cid": null
   },
@@ -2257,7 +2257,7 @@
     "recurring_parameters": null,
     "current_period": null,
     "fixed_fee": null,
-    "actual_hours": 28,
+    "actual_hours": 29,
     "wid": 5821463,
     "cid": null
   },
@@ -2283,7 +2283,7 @@
     "recurring_parameters": null,
     "current_period": null,
     "fixed_fee": null,
-    "actual_hours": 205,
+    "actual_hours": 207,
     "wid": 5821463,
     "cid": null
   },
@@ -2309,7 +2309,7 @@
     "recurring_parameters": null,
     "current_period": null,
     "fixed_fee": null,
-    "actual_hours": 115,
+    "actual_hours": 116,
     "wid": 5821463,
     "cid": null
   },
@@ -2621,7 +2621,7 @@
     "recurring_parameters": null,
     "current_period": null,
     "fixed_fee": null,
-    "actual_hours": 453,
+    "actual_hours": 455,
     "wid": 5821463,
     "cid": null
   },
@@ -2673,7 +2673,7 @@
     "recurring_parameters": null,
     "current_period": null,
     "fixed_fee": null,
-    "actual_hours": 623,
+    "actual_hours": 624,
     "wid": 5821463,
     "cid": null
   },
@@ -2777,7 +2777,7 @@
     "recurring_parameters": null,
     "current_period": null,
     "fixed_fee": null,
-    "actual_hours": 411,
+    "actual_hours": 419,
     "wid": 5821463,
     "cid": null
   },
@@ -2881,7 +2881,7 @@
     "recurring_parameters": null,
     "current_period": null,
     "fixed_fee": null,
-    "actual_hours": 65,
+    "actual_hours": 74,
     "wid": 5821463,
     "cid": null
   },
@@ -3167,7 +3167,7 @@
     "recurring_parameters": null,
     "current_period": null,
     "fixed_fee": null,
-    "actual_hours": 1,
+    "actual_hours": 2,
     "wid": 5821463,
     "cid": null
   },

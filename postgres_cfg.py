@@ -47,7 +47,7 @@ def postgres_toggle(report_toggle_path, toggle_table_name):
         (
                     id SERIAL PRIMARY KEY,
                     user_id INTEGER,
-                    username NAME,
+                    username TEXT,
                     project_id INTEGER,
                     project_name TEXT,
                     description TEXT,
@@ -55,7 +55,8 @@ def postgres_toggle(report_toggle_path, toggle_table_name):
                     seconds INTEGER,
                     start_time TEXT,
                     stop_time TEXT,
-                    normal_time TIME WITHOUT TIME ZONE
+                    mins INTEGER,
+                    normal_time TEXT
                     )
                     
                     """
@@ -72,21 +73,21 @@ def postgres_toggle(report_toggle_path, toggle_table_name):
                 project_id = entry["project_id"]
                 project_name = entry["project_name"]
                 description = entry["description"]
-                
                 for times in entry["time_entries"]:
                     time_id = times["id"]
                     seconds = times["seconds"]
                     start_time = times["start"]
                     stop_time = times["stop"]
                     normal_time = times["normal_time"]
+                    mins = times["mins"]
                     
                     #SQL INSERT
                     insert_sql = f"""
-                    INSERT INTO {toggle_table_name} (user_id, username, project_id, project_name, description, time_id, seconds, start_time, stop_time, normal_time)
-                    VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+                    INSERT INTO {toggle_table_name} (user_id, username, project_id, project_name, description, time_id, seconds, start_time, stop_time, mins, normal_time)
+                    VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
                     """
                     # Исключение
-                    cursor.execute(insert_sql, (user_id, username, project_id,project_name, description, time_id, seconds, start_time, stop_time, normal_time))
+                    cursor.execute(insert_sql, (user_id, username, project_id,project_name, description, time_id, seconds, start_time, stop_time, mins, normal_time))
                     connection.commit()
                     
     except Exception as ex:
@@ -113,7 +114,7 @@ def create_kaiten_times_table(kaiten_times_table_name, kaiten_times_json_path):
         CREATE TABLE {kaiten_times_table_name} (
             id SERIAL PRIMARY KEY,
             card_id BIGINT,
-            username NAME,
+            username TEXT,
             time_spent INTEGER,
             total_sum_with_hours TEXT,
             role TEXT,
@@ -183,7 +184,7 @@ def create_data_kaiten_table(kaiten_data_tabble_name, kaiten_data_json_path):
             id SERIAL PRIMARY KEY,
             Card_id INTEGER,
             Card_Name TEXT,
-            username NAME,
+            username TEXT,
             User_email TEXT,
             User_role TEXT,
             comment TEXT,
@@ -232,3 +233,6 @@ def create_data_kaiten_table(kaiten_data_tabble_name, kaiten_data_json_path):
 # kaiten_data_tabble_name = "data_kaiten"
 # kaiten_data_json_path = "dataKaiten.json"
 # create_data_kaiten_table(kaiten_data_tabble_name, kaiten_data_json_path)
+# report_toggle_path = 'report_toggle.json'
+# toggle_table_name = 'toggl'
+# postgres_toggle(report_toggle_path, toggle_table_name)

@@ -126,6 +126,8 @@ while True:
                 hours = seconds // 3600
                 minutes = (seconds % 3600) // 60
                 normal_time = f"{hours:02d}:{minutes:02d}"
+                mins = seconds // 60
+                time_entry['mins'] = mins
                 time_entry['normal_time'] = normal_time
                 
                 filtered_entry['time_entries'].append(time_entry)

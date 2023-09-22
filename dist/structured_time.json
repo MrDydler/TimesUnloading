@@ -1,287 +1,635 @@
 {
   "time_logs_data": {
-    "16329953": {
-      "Анрей Губашов": {
+    "20087589": {
+      "Андрей Дакалов": {
         "Time_spent": [
           {
-            "created": "2023-08-22 16:18:13",
-            "time_spent": 4
+            "created": "2023-09-22 10:32:08",
+            "time_spent": 53
           },
           {
-            "created": "2023-08-22 16:22:15",
-            "time_spent": 1
-          },
-          {
-            "created": "2023-08-22 16:26:56",
-            "time_spent": 1
-          },
-          {
-            "created": "2023-08-21 01:44:04",
-            "time_spent": 164
-          },
-          {
-            "created": "2023-08-22 17:22:56",
-            "time_spent": 147
-          },
-          {
-            "created": "2023-08-18 12:39:03",
-            "time_spent": 9
-          },
-          {
-            "created": "2023-08-24 10:57:32",
-            "time_spent": 49
-          },
-          {
-            "created": "2023-09-11 09:57:18",
-            "time_spent": 611
-          },
-          {
-            "created": "2023-09-15 15:15:27",
-            "time_spent": 240
-          }
-        ],
-        "Total_sum": 1226,
-        "Total_sum_with_hours": "20:26",
-        "Role": "Внедрение",
-        "Customer": "Web-Regata/Веб-регата"
-      },
-      "Мария Никифорова": {
-        "Time_spent": [
-          {
-            "created": "2023-08-22 16:28:34",
-            "time_spent": 20
-          },
-          {
-            "created": "2023-08-21 09:53:00",
-            "time_spent": 8
-          },
-          {
-            "created": "2023-08-18 09:58:51",
+            "created": "2023-09-22 13:18:25",
             "time_spent": 21
           },
           {
-            "created": "2023-08-30 09:47:10",
-            "time_spent": 37
+            "created": "2023-09-21 10:40:21",
+            "time_spent": 39
           },
           {
-            "created": "2023-09-15 16:38:54",
+            "created": "2023-09-21 13:55:18",
+            "time_spent": 49
+          },
+          {
+            "created": "2023-09-20 12:53:28",
             "time_spent": 28
+          },
+          {
+            "created": "2023-09-21 15:29:47",
+            "time_spent": 41
+          },
+          {
+            "created": "2023-09-20 10:48:18",
+            "time_spent": 95
+          },
+          {
+            "created": "2023-09-20 14:47:32",
+            "time_spent": 26
+          },
+          {
+            "created": "2023-09-20 14:06:51",
+            "time_spent": 57
+          },
+          {
+            "created": "2023-09-19 17:09:27",
+            "time_spent": 7
+          },
+          {
+            "created": "2023-09-19 15:47:35",
+            "time_spent": 22
+          },
+          {
+            "created": "2023-09-20 16:19:49",
+            "time_spent": 24
           }
         ],
-        "Total_sum": 114,
-        "Total_sum_with_hours": "01:54",
-        "Role": "Младший аналитик",
-        "Customer": "Web-Regata/Веб-регата"
+        "Total_sum": 462,
+        "Total_sum_with_hours": "07:42",
+        "Role": "Внедрение",
+        "Customer": "Ойкумена"
       }
     },
-    "16862646": {
-      "Андрей Дакалов": {
+    "19868173": {
+      "Роман Балуков": {
         "Time_spent": [
           {
-            "created": "2023-08-24 11:02:11",
-            "time_spent": 2
-          },
-          {
-            "created": "2023-09-15 16:38:39",
-            "time_spent": 23
-          }
-        ],
-        "Total_sum": 25,
-        "Total_sum_with_hours": "00:25",
-        "Role": "Внедрение",
-        "Customer": "DVA group/Два Групп"
-      },
-      "Михаил Лаптов": {
-        "Time_spent": [
-          {
-            "created": "2023-08-25 14:51:05",
-            "time_spent": 229
-          },
-          {
-            "created": "2023-08-22 17:18:19",
-            "time_spent": 25
-          },
-          {
-            "created": "2023-08-24 15:09:13",
-            "time_spent": 78
-          },
-          {
-            "created": "2023-08-23 18:34:09",
+            "created": "2023-09-18 12:44:05",
             "time_spent": 56
           },
           {
-            "created": "2023-09-04 15:15:56",
-            "time_spent": 30
+            "created": "2023-09-18 14:46:11",
+            "time_spent": 16
           },
           {
-            "created": "2023-08-24 16:50:48",
-            "time_spent": 80
+            "created": "2023-09-18 13:34:37",
+            "time_spent": 37
           },
           {
-            "created": "2023-09-05 12:01:23",
-            "time_spent": 118
-          },
-          {
-            "created": "2023-09-08 17:33:14",
-            "time_spent": 60
-          },
-          {
-            "created": "2023-09-08 18:54:07",
-            "time_spent": 55
-          },
-          {
-            "created": "2023-09-11 16:33:04",
-            "time_spent": 131
-          },
-          {
-            "created": "2023-09-11 18:42:19",
+            "created": "2023-09-18 17:02:10",
             "time_spent": 42
           },
           {
-            "created": "2023-09-13 16:30:21",
-            "time_spent": 9
+            "created": "2023-09-18 17:17:14",
+            "time_spent": 10
           },
           {
-            "created": "2023-09-14 15:12:28",
-            "time_spent": 98
+            "created": "2023-09-18 19:44:16",
+            "time_spent": 14
           },
           {
-            "created": "2023-09-15 12:04:30",
-            "time_spent": 50
+            "created": "2023-09-22 13:05:15",
+            "time_spent": 10
           },
           {
-            "created": "2023-09-15 14:18:24",
-            "time_spent": 133
-          },
-          {
-            "created": "2023-09-15 15:51:48",
-            "time_spent": 31
+            "created": "2023-09-19 15:10:30",
+            "time_spent": 40
           }
         ],
-        "Total_sum": 1225,
-        "Total_sum_with_hours": "20:25",
+        "Total_sum": 225,
+        "Total_sum_with_hours": "03:45",
         "Role": "Менеджер проектов",
-        "Customer": "DVA group/Два Групп"
-      },
-      "Роман Балуков": {
-        "Time_spent": [
-          {
-            "created": "2023-08-25 13:35:35",
-            "time_spent": 65
-          },
-          {
-            "created": "2023-09-08 13:28:14",
-            "time_spent": 28
-          },
-          {
-            "created": "2023-09-08 14:34:30",
-            "time_spent": 8
-          },
-          {
-            "created": "2023-09-14 13:42:19",
-            "time_spent": 12
-          },
-          {
-            "created": "2023-09-15 15:56:37",
-            "time_spent": 31
-          }
-        ],
-        "Total_sum": 144,
-        "Total_sum_with_hours": "02:24",
-        "Role": "Внедрение",
-        "Customer": "DVA group/Два Групп"
+        "Customer": "Меркурий"
       }
     },
-    "18567406": {
-      "Михаил Лаптов": {
+    "17778144": {
+      "Андрей Дакалов": {
         "Time_spent": [
           {
-            "created": "2023-09-06 14:12:02",
-            "time_spent": 72
-          },
-          {
-            "created": "2023-09-06 17:17:59",
+            "created": "2023-09-04 13:31:24",
             "time_spent": 17
           },
           {
-            "created": "2023-09-08 17:52:18",
+            "created": "2023-09-04 13:57:10",
+            "time_spent": 23
+          },
+          {
+            "created": "2023-08-30 09:55:32",
+            "time_spent": 36
+          },
+          {
+            "created": "2023-09-05 10:01:22",
+            "time_spent": 18
+          },
+          {
+            "created": "2023-09-05 10:48:38",
+            "time_spent": 25
+          },
+          {
+            "created": "2023-09-22 12:28:00",
+            "time_spent": 25
+          },
+          {
+            "created": "2023-09-21 12:00:15",
+            "time_spent": 13
+          },
+          {
+            "created": "2023-09-22 12:32:41",
             "time_spent": 2
           },
           {
-            "created": "2023-09-11 17:23:42",
-            "time_spent": 42
+            "created": "2023-09-06 15:18:58",
+            "time_spent": 13
+          },
+          {
+            "created": "2023-09-08 14:49:52",
+            "time_spent": 49
+          },
+          {
+            "created": "2023-09-11 15:17:47",
+            "time_spent": 39
           }
         ],
-        "Total_sum": 133,
-        "Total_sum_with_hours": "02:13",
+        "Total_sum": 260,
+        "Total_sum_with_hours": "04:20",
+        "Role": "Внедрение",
+        "Customer": "Web-Regata/Веб-регата"
+      }
+    },
+    "17779823": {
+      "Михаил Лаптов": {
+        "Time_spent": [
+          {
+            "created": "2023-09-18 11:53:11",
+            "time_spent": 38
+          },
+          {
+            "created": "2023-09-22 12:11:04",
+            "time_spent": 35
+          },
+          {
+            "created": "2023-09-21 11:49:44",
+            "time_spent": 35
+          },
+          {
+            "created": "2023-09-20 11:57:49",
+            "time_spent": 58
+          },
+          {
+            "created": "2023-09-19 17:43:00",
+            "time_spent": 39
+          },
+          {
+            "created": "2023-09-15 12:04:55",
+            "time_spent": 35
+          }
+        ],
+        "Total_sum": 240,
+        "Total_sum_with_hours": "04:00",
         "Role": "Менеджер проектов",
-        "Customer": "DVA group/Два Групп"
+        "Customer": "Административные решения/Админка"
       },
       "Андрей Дакалов": {
         "Time_spent": [
           {
-            "created": "2023-09-15 16:14:51",
-            "time_spent": 5
+            "created": "2023-08-31 11:58:39",
+            "time_spent": 59
+          },
+          {
+            "created": "2023-08-30 12:12:42",
+            "time_spent": 74
+          },
+          {
+            "created": "2023-09-01 12:12:54",
+            "time_spent": 69
+          },
+          {
+            "created": "2023-09-04 11:38:15",
+            "time_spent": 37
+          },
+          {
+            "created": "2023-09-18 12:27:40",
+            "time_spent": 79
+          },
+          {
+            "created": "2023-09-05 11:29:54",
+            "time_spent": 30
+          },
+          {
+            "created": "2023-09-22 11:55:05",
+            "time_spent": 51
+          },
+          {
+            "created": "2023-09-21 11:52:40",
+            "time_spent": 48
+          },
+          {
+            "created": "2023-09-19 11:42:27",
+            "time_spent": 33
+          },
+          {
+            "created": "2023-09-20 11:42:56",
+            "time_spent": 43
+          },
+          {
+            "created": "2023-09-07 11:48:37",
+            "time_spent": 47
+          },
+          {
+            "created": "2023-09-08 11:52:30",
+            "time_spent": 51
+          },
+          {
+            "created": "2023-09-11 11:40:45",
+            "time_spent": 39
+          },
+          {
+            "created": "2023-09-12 11:59:27",
+            "time_spent": 56
+          },
+          {
+            "created": "2023-09-13 11:22:25",
+            "time_spent": 22
+          },
+          {
+            "created": "2023-09-14 12:17:02",
+            "time_spent": 77
+          },
+          {
+            "created": "2023-09-15 11:46:47",
+            "time_spent": 45
           }
         ],
-        "Total_sum": 5,
-        "Total_sum_with_hours": "00:05",
+        "Total_sum": 860,
+        "Total_sum_with_hours": "14:20",
         "Role": "Внедрение",
-        "Customer": "DVA group/Два Групп"
-      }
-    },
-    "19486279": {
+        "Customer": "Административные решения/Админка"
+      },
       "Мария Никифорова": {
         "Time_spent": [
           {
-            "created": "2023-09-15 16:09:14",
-            "time_spent": 54
+            "created": "2023-08-30 11:49:26",
+            "time_spent": 49
           }
         ],
-        "Total_sum": 54,
-        "Total_sum_with_hours": "00:54",
+        "Total_sum": 49,
+        "Total_sum_with_hours": "00:49",
         "Role": "Младший аналитик",
-        "Customer": "TNF / Bernstein / ТНФ / Бернштейн"
+        "Customer": "Административные решения/Админка"
       },
-      "Андрей Дакалов": {
-        "Time_spent": [
-          {
-            "created": "2023-09-15 16:07:24",
-            "time_spent": 55
-          }
-        ],
-        "Total_sum": 55,
-        "Total_sum_with_hours": "00:55",
-        "Role": "Внедрение",
-        "Customer": "TNF / Bernstein / ТНФ / Бернштейн"
-      }
-    },
-    "10930889": {
       "Роман Балуков": {
         "Time_spent": [
           {
-            "created": "2023-09-15 16:03:55",
+            "created": "2023-09-01 12:05:52",
+            "time_spent": 41
+          },
+          {
+            "created": "2023-08-31 11:44:20",
+            "time_spent": 38
+          },
+          {
+            "created": "2023-08-30 11:50:14",
+            "time_spent": 50
+          },
+          {
+            "created": "2023-09-04 12:17:54",
+            "time_spent": 40
+          },
+          {
+            "created": "2023-08-29 12:32:46",
             "time_spent": 52
+          },
+          {
+            "created": "2023-09-22 11:30:47",
+            "time_spent": 31
+          },
+          {
+            "created": "2023-09-22 11:31:09",
+            "time_spent": 31
+          },
+          {
+            "created": "2023-09-06 11:32:01",
+            "time_spent": 32
+          },
+          {
+            "created": "2023-09-19 12:15:04",
+            "time_spent": 35
+          },
+          {
+            "created": "2023-09-20 12:23:22",
+            "time_spent": 56
+          },
+          {
+            "created": "2023-09-07 12:08:38",
+            "time_spent": 29
+          },
+          {
+            "created": "2023-09-08 11:46:28",
+            "time_spent": 20
+          },
+          {
+            "created": "2023-09-11 11:29:01",
+            "time_spent": 29
+          },
+          {
+            "created": "2023-09-12 11:36:36",
+            "time_spent": 29
+          },
+          {
+            "created": "2023-09-13 12:10:46",
+            "time_spent": 15
+          },
+          {
+            "created": "2023-09-14 13:00:54",
+            "time_spent": 45
+          },
+          {
+            "created": "2023-09-15 11:47:02",
+            "time_spent": 34
           }
         ],
-        "Total_sum": 52,
-        "Total_sum_with_hours": "00:52",
-        "Role": "Менеджер проектов",
-        "Customer": "DVA group/Два Групп"
+        "Total_sum": 607,
+        "Total_sum_with_hours": "10:07",
+        "Role": "Web-Regata",
+        "Customer": "Административные решения/Админка"
       }
     },
-    "19509984": {
+    "11045172": {
       "Андрей Дакалов": {
         "Time_spent": [
           {
-            "created": "2023-09-15 15:12:33",
-            "time_spent": 2
+            "created": "2023-07-11 11:43:29",
+            "time_spent": 24
+          },
+          {
+            "created": "2023-06-23 10:15:38",
+            "time_spent": 23
+          },
+          {
+            "created": "2023-07-14 09:29:13",
+            "time_spent": 14
+          },
+          {
+            "created": "2023-06-21 14:04:52",
+            "time_spent": 55
+          },
+          {
+            "created": "2023-06-21 14:37:05",
+            "time_spent": 37
+          },
+          {
+            "created": "2023-06-28 12:24:55",
+            "time_spent": 36
+          },
+          {
+            "created": "2023-06-26 14:43:55",
+            "time_spent": 1
+          },
+          {
+            "created": "2023-06-26 15:04:55",
+            "time_spent": 21
+          },
+          {
+            "created": "2023-06-30 10:28:28",
+            "time_spent": 13
+          },
+          {
+            "created": "2023-06-15 14:59:29",
+            "time_spent": 84
+          },
+          {
+            "created": "2023-06-27 16:15:50",
+            "time_spent": 24
+          },
+          {
+            "created": "2023-07-03 14:47:15",
+            "time_spent": 16
+          },
+          {
+            "created": "2023-06-29 14:20:40",
+            "time_spent": 21
+          },
+          {
+            "created": "2023-07-14 13:16:02",
+            "time_spent": 25
+          },
+          {
+            "created": "2023-06-30 14:01:21",
+            "time_spent": 1
+          },
+          {
+            "created": "2023-08-03 12:08:04",
+            "time_spent": 8
+          },
+          {
+            "created": "2023-08-24 13:04:08",
+            "time_spent": 11
+          },
+          {
+            "created": "2023-08-28 11:31:33",
+            "time_spent": 60
+          },
+          {
+            "created": "2023-08-09 11:27:29",
+            "time_spent": 32
+          },
+          {
+            "created": "2023-08-31 16:10:27",
+            "time_spent": 47
+          },
+          {
+            "created": "2023-08-28 12:22:35",
+            "time_spent": 46
+          },
+          {
+            "created": "2023-08-31 17:38:51",
+            "time_spent": 88
+          },
+          {
+            "created": "2023-08-31 17:52:50",
+            "time_spent": 14
+          },
+          {
+            "created": "2023-08-28 14:45:35",
+            "time_spent": 45
+          },
+          {
+            "created": "2023-08-30 16:19:40",
+            "time_spent": 5
+          },
+          {
+            "created": "2023-08-18 11:28:32",
+            "time_spent": 47
+          },
+          {
+            "created": "2023-08-29 12:25:42",
+            "time_spent": 72
+          },
+          {
+            "created": "2023-08-25 11:33:57",
+            "time_spent": 34
+          },
+          {
+            "created": "2023-08-02 13:52:47",
+            "time_spent": 26
+          },
+          {
+            "created": "2023-08-09 16:26:46",
+            "time_spent": 25
+          },
+          {
+            "created": "2023-08-17 16:37:01",
+            "time_spent": 65
+          },
+          {
+            "created": "2023-09-18 17:05:37",
+            "time_spent": 30
+          },
+          {
+            "created": "2023-09-05 12:39:40",
+            "time_spent": 40
+          },
+          {
+            "created": "2023-09-22 12:02:35",
+            "time_spent": 7
+          },
+          {
+            "created": "2023-09-21 16:42:18",
+            "time_spent": 60
+          },
+          {
+            "created": "2023-09-21 17:36:48",
+            "time_spent": 41
+          },
+          {
+            "created": "2023-09-19 12:39:38",
+            "time_spent": 8
+          },
+          {
+            "created": "2023-09-19 11:58:01",
+            "time_spent": 9
+          },
+          {
+            "created": "2023-09-19 15:17:01",
+            "time_spent": 78
+          },
+          {
+            "created": "2023-09-20 16:36:59",
+            "time_spent": 17
+          },
+          {
+            "created": "2023-09-07 09:56:18",
+            "time_spent": 22
+          },
+          {
+            "created": "2023-09-07 14:58:31",
+            "time_spent": 5
+          },
+          {
+            "created": "2023-09-08 12:31:14",
+            "time_spent": 39
+          },
+          {
+            "created": "2023-09-08 16:11:22",
+            "time_spent": 81
+          },
+          {
+            "created": "2023-09-11 10:29:41",
+            "time_spent": 9
+          },
+          {
+            "created": "2023-09-11 15:21:16",
+            "time_spent": 3
+          },
+          {
+            "created": "2023-09-11 16:46:20",
+            "time_spent": 5
+          },
+          {
+            "created": "2023-09-11 16:25:47",
+            "time_spent": 11
+          },
+          {
+            "created": "2023-09-12 10:38:09",
+            "time_spent": 9
+          },
+          {
+            "created": "2023-09-12 10:44:29",
+            "time_spent": 6
+          },
+          {
+            "created": "2023-09-12 12:16:15",
+            "time_spent": 17
+          },
+          {
+            "created": "2023-09-12 13:00:35",
+            "time_spent": 31
+          },
+          {
+            "created": "2023-09-12 15:25:50",
+            "time_spent": 26
+          },
+          {
+            "created": "2023-09-13 11:40:10",
+            "time_spent": 6
+          },
+          {
+            "created": "2023-09-13 14:57:25",
+            "time_spent": 125
+          },
+          {
+            "created": "2023-09-13 16:21:57",
+            "time_spent": 19
+          },
+          {
+            "created": "2023-09-15 11:50:38",
+            "time_spent": 4
+          },
+          {
+            "created": "2023-09-15 12:22:24",
+            "time_spent": 27
+          },
+          {
+            "created": "2023-09-15 13:42:16",
+            "time_spent": 43
           }
         ],
-        "Total_sum": 2,
-        "Total_sum_with_hours": "00:02",
+        "Total_sum": 1798,
+        "Total_sum_with_hours": "29:58",
         "Role": "Внедрение",
-        "Customer": "Святой Михаил"
+        "Customer": "Административные решения/Админка"
+      }
+    },
+    "20287524": {
+      "Михаил Лаптов": {
+        "Time_spent": [
+          {
+            "created": "2023-09-22 11:10:40",
+            "time_spent": 44
+          },
+          {
+            "created": "2023-09-21 12:52:09",
+            "time_spent": 37
+          },
+          {
+            "created": "2023-09-21 15:25:14",
+            "time_spent": 115
+          }
+        ],
+        "Total_sum": 196,
+        "Total_sum_with_hours": "03:16",
+        "Role": "Менеджер проектов",
+        "Customer": "ТСИ-Казань"
+      },
+      "Роман Балуков": {
+        "Time_spent": [
+          {
+            "created": "2023-09-21 14:46:49",
+            "time_spent": 92
+          }
+        ],
+        "Total_sum": 92,
+        "Total_sum_with_hours": "01:32",
+        "Role": "Менеджер проектов",
+        "Customer": "ТСИ-Казань"
       }
     },
     "10898009": {
@@ -422,6 +770,10 @@
           {
             "created": "2023-06-21 15:21:35",
             "time_spent": 24
+          },
+          {
+            "created": "2023-09-18 09:40:49",
+            "time_spent": 41
           },
           {
             "created": "2023-06-14 11:55:35",
@@ -740,6 +1092,10 @@
             "time_spent": 8
           },
           {
+            "created": "2023-09-18 12:38:55",
+            "time_spent": 11
+          },
+          {
             "created": "2023-08-30 09:19:32",
             "time_spent": 14
           },
@@ -788,6 +1144,14 @@
             "time_spent": 22
           },
           {
+            "created": "2023-09-18 16:35:53",
+            "time_spent": 30
+          },
+          {
+            "created": "2023-09-18 15:22:29",
+            "time_spent": 3
+          },
+          {
             "created": "2023-09-04 17:26:25",
             "time_spent": 70
           },
@@ -796,12 +1160,24 @@
             "time_spent": 33
           },
           {
+            "created": "2023-09-22 11:03:36",
+            "time_spent": 29
+          },
+          {
             "created": "2023-09-05 14:15:19",
             "time_spent": 28
           },
           {
+            "created": "2023-09-21 09:44:38",
+            "time_spent": 39
+          },
+          {
             "created": "2023-09-05 15:30:24",
             "time_spent": 57
+          },
+          {
+            "created": "2023-09-21 13:58:26",
+            "time_spent": 3
           },
           {
             "created": "2023-09-05 17:41:39",
@@ -814,6 +1190,34 @@
           {
             "created": "2023-09-06 11:48:46",
             "time_spent": 9
+          },
+          {
+            "created": "2023-09-19 10:44:20",
+            "time_spent": 17
+          },
+          {
+            "created": "2023-09-20 09:12:47",
+            "time_spent": 9
+          },
+          {
+            "created": "2023-09-20 11:52:20",
+            "time_spent": 9
+          },
+          {
+            "created": "2023-09-19 17:35:35",
+            "time_spent": 6
+          },
+          {
+            "created": "2023-09-20 17:19:18",
+            "time_spent": 30
+          },
+          {
+            "created": "2023-09-20 15:41:12",
+            "time_spent": 22
+          },
+          {
+            "created": "2023-09-19 17:43:57",
+            "time_spent": 14
           },
           {
             "created": "2023-09-07 09:22:31",
@@ -920,621 +1324,547 @@
             "time_spent": 35
           }
         ],
-        "Total_sum": 3473,
-        "Total_sum_with_hours": "57:53",
+        "Total_sum": 3736,
+        "Total_sum_with_hours": "62:16",
         "Role": "Внедрение",
         "Customer": "Административные решения/Админка"
       }
     },
-    "19499073": {
-      "Роман Балуков": {
-        "Time_spent": [
-          {
-            "created": "2023-09-15 14:14:58",
-            "time_spent": 24
-          }
-        ],
-        "Total_sum": 24,
-        "Total_sum_with_hours": "00:24",
-        "Role": "Менеджер проектов",
-        "Customer": "Прометей"
-      }
-    },
-    "18618665": {
-      "Василий Матрюк": {
-        "Time_spent": [
-          {
-            "created": "2023-09-08 16:16:12",
-            "time_spent": 47
-          }
-        ],
-        "Total_sum": 47,
-        "Total_sum_with_hours": "00:47",
-        "Role": "СТП 1 линия",
-        "Customer": "Прометей"
-      },
-      "Андрей Дакалов": {
-        "Time_spent": [
-          {
-            "created": "2023-09-14 10:13:46",
-            "time_spent": 31
-          }
-        ],
-        "Total_sum": 31,
-        "Total_sum_with_hours": "00:31",
-        "Role": "Внедрение",
-        "Customer": "Прометей"
-      },
-      "Анрей Губашов": {
-        "Time_spent": [
-          {
-            "created": "2023-09-15 14:00:37",
-            "time_spent": 61
-          }
-        ],
-        "Total_sum": 61,
-        "Total_sum_with_hours": "01:01",
-        "Role": "Бизнес-аналитик",
-        "Customer": "Прометей"
-      }
-    },
-    "11045172": {
-      "Андрей Дакалов": {
-        "Time_spent": [
-          {
-            "created": "2023-07-11 11:43:29",
-            "time_spent": 24
-          },
-          {
-            "created": "2023-06-23 10:15:38",
-            "time_spent": 23
-          },
-          {
-            "created": "2023-07-14 09:29:13",
-            "time_spent": 14
-          },
-          {
-            "created": "2023-06-21 14:04:52",
-            "time_spent": 55
-          },
-          {
-            "created": "2023-06-21 14:37:05",
-            "time_spent": 37
-          },
-          {
-            "created": "2023-06-28 12:24:55",
-            "time_spent": 36
-          },
-          {
-            "created": "2023-06-26 14:43:55",
-            "time_spent": 1
-          },
-          {
-            "created": "2023-06-26 15:04:55",
-            "time_spent": 21
-          },
-          {
-            "created": "2023-06-30 10:28:28",
-            "time_spent": 13
-          },
-          {
-            "created": "2023-06-15 14:59:29",
-            "time_spent": 84
-          },
-          {
-            "created": "2023-06-27 16:15:50",
-            "time_spent": 24
-          },
-          {
-            "created": "2023-07-03 14:47:15",
-            "time_spent": 16
-          },
-          {
-            "created": "2023-06-29 14:20:40",
-            "time_spent": 21
-          },
-          {
-            "created": "2023-07-14 13:16:02",
-            "time_spent": 25
-          },
-          {
-            "created": "2023-06-30 14:01:21",
-            "time_spent": 1
-          },
-          {
-            "created": "2023-08-03 12:08:04",
-            "time_spent": 8
-          },
-          {
-            "created": "2023-08-24 13:04:08",
-            "time_spent": 11
-          },
-          {
-            "created": "2023-08-28 11:31:33",
-            "time_spent": 60
-          },
-          {
-            "created": "2023-08-09 11:27:29",
-            "time_spent": 32
-          },
-          {
-            "created": "2023-08-31 16:10:27",
-            "time_spent": 47
-          },
-          {
-            "created": "2023-08-28 12:22:35",
-            "time_spent": 46
-          },
-          {
-            "created": "2023-08-31 17:38:51",
-            "time_spent": 88
-          },
-          {
-            "created": "2023-08-31 17:52:50",
-            "time_spent": 14
-          },
-          {
-            "created": "2023-08-28 14:45:35",
-            "time_spent": 45
-          },
-          {
-            "created": "2023-08-30 16:19:40",
-            "time_spent": 5
-          },
-          {
-            "created": "2023-08-18 11:28:32",
-            "time_spent": 47
-          },
-          {
-            "created": "2023-08-29 12:25:42",
-            "time_spent": 72
-          },
-          {
-            "created": "2023-08-25 11:33:57",
-            "time_spent": 34
-          },
-          {
-            "created": "2023-08-02 13:52:47",
-            "time_spent": 26
-          },
-          {
-            "created": "2023-08-09 16:26:46",
-            "time_spent": 25
-          },
-          {
-            "created": "2023-08-17 16:37:01",
-            "time_spent": 65
-          },
-          {
-            "created": "2023-09-05 12:39:40",
-            "time_spent": 40
-          },
-          {
-            "created": "2023-09-07 09:56:18",
-            "time_spent": 22
-          },
-          {
-            "created": "2023-09-07 14:58:31",
-            "time_spent": 5
-          },
-          {
-            "created": "2023-09-08 12:31:14",
-            "time_spent": 39
-          },
-          {
-            "created": "2023-09-08 16:11:22",
-            "time_spent": 81
-          },
-          {
-            "created": "2023-09-11 10:29:41",
-            "time_spent": 9
-          },
-          {
-            "created": "2023-09-11 15:21:16",
-            "time_spent": 3
-          },
-          {
-            "created": "2023-09-11 16:46:20",
-            "time_spent": 5
-          },
-          {
-            "created": "2023-09-11 16:25:47",
-            "time_spent": 11
-          },
-          {
-            "created": "2023-09-12 10:38:09",
-            "time_spent": 9
-          },
-          {
-            "created": "2023-09-12 10:44:29",
-            "time_spent": 6
-          },
-          {
-            "created": "2023-09-12 12:16:15",
-            "time_spent": 17
-          },
-          {
-            "created": "2023-09-12 13:00:35",
-            "time_spent": 31
-          },
-          {
-            "created": "2023-09-12 15:25:50",
-            "time_spent": 26
-          },
-          {
-            "created": "2023-09-13 11:40:10",
-            "time_spent": 6
-          },
-          {
-            "created": "2023-09-13 14:57:25",
-            "time_spent": 125
-          },
-          {
-            "created": "2023-09-13 16:21:57",
-            "time_spent": 19
-          },
-          {
-            "created": "2023-09-15 11:50:38",
-            "time_spent": 4
-          },
-          {
-            "created": "2023-09-15 12:22:24",
-            "time_spent": 27
-          },
-          {
-            "created": "2023-09-15 13:42:16",
-            "time_spent": 43
-          }
-        ],
-        "Total_sum": 1548,
-        "Total_sum_with_hours": "25:48",
-        "Role": "Внедрение",
-        "Customer": "Административные решения/Админка"
-      }
-    },
-    "18116200": {
-      "Андрей Дакалов": {
-        "Time_spent": [
-          {
-            "created": "2023-09-01 09:33:36",
-            "time_spent": 4
-          }
-        ],
-        "Total_sum": 4,
-        "Total_sum_with_hours": "00:04",
-        "Role": "Внедрение",
-        "Customer": "TNF / Bernstein / ТНФ / Бернштейн"
-      },
+    "13691156": {
       "Мария Никифорова": {
         "Time_spent": [
           {
-            "created": "2023-09-01 10:44:57",
-            "time_spent": 9
-          }
-        ],
-        "Total_sum": 9,
-        "Total_sum_with_hours": "00:09",
-        "Role": "Младший аналитик",
-        "Customer": "TNF / Bernstein / ТНФ / Бернштейн"
-      }
-    },
-    "10930921": {
-      "Роман Балуков": {
-        "Time_spent": [
-          {
-            "created": "2023-09-08 18:57:37",
-            "time_spent": 31
-          },
-          {
-            "created": "2023-09-11 19:44:55",
-            "time_spent": 45
-          },
-          {
-            "created": "2023-09-11 18:54:51",
-            "time_spent": 35
-          }
-        ],
-        "Total_sum": 111,
-        "Total_sum_with_hours": "01:51",
-        "Role": "Менеджер проектов",
-        "Customer": "DVA group/Два Групп"
-      },
-      "Василий Матрюк": {
-        "Time_spent": [
-          {
-            "created": "2023-09-09 20:43:24",
-            "time_spent": 140
-          }
-        ],
-        "Total_sum": 140,
-        "Total_sum_with_hours": "02:20",
-        "Role": "Внедрение",
-        "Customer": "DVA group/Два Групп"
-      }
-    },
-    "10930895": {
-      "Роман Балуков": {
-        "Time_spent": [
-          {
-            "created": "2023-09-01 16:49:02",
-            "time_spent": 14
-          },
-          {
-            "created": "2023-07-20 10:36:50",
-            "time_spent": 17
-          },
-          {
-            "created": "2023-07-25 11:51:23",
-            "time_spent": 41
-          },
-          {
-            "created": "2023-09-06 11:43:46",
-            "time_spent": 51
-          },
-          {
-            "created": "2023-09-06 12:17:14",
-            "time_spent": 12
-          },
-          {
-            "created": "2023-09-06 12:17:27",
-            "time_spent": 3
-          },
-          {
-            "created": "2023-09-13 15:18:57",
-            "time_spent": 8
-          }
-        ],
-        "Total_sum": 146,
-        "Total_sum_with_hours": "02:26",
-        "Role": "Менеджер проектов",
-        "Customer": "DVA group/Два Групп"
-      },
-      "Михаил Лаптов": {
-        "Time_spent": [
-          {
-            "created": "2023-07-24 13:48:39",
-            "time_spent": 70
-          },
-          {
-            "created": "2023-07-24 15:25:22",
+            "created": "2023-08-10 10:53:15",
             "time_spent": 28
           },
           {
-            "created": "2023-07-24 11:54:23",
+            "created": "2023-08-10 12:03:58",
+            "time_spent": 43
+          },
+          {
+            "created": "2023-08-10 13:38:52",
+            "time_spent": 90
+          },
+          {
+            "created": "2023-08-10 13:52:09",
+            "time_spent": 15
+          },
+          {
+            "created": "2023-08-10 14:47:49",
+            "time_spent": 53
+          },
+          {
+            "created": "2023-08-17 15:50:56",
+            "time_spent": 32
+          },
+          {
+            "created": "2023-08-14 13:39:36",
+            "time_spent": 40
+          },
+          {
+            "created": "2023-08-14 14:26:55",
+            "time_spent": 22
+          },
+          {
+            "created": "2023-08-18 13:01:40",
+            "time_spent": 29
+          },
+          {
+            "created": "2023-08-17 16:37:10",
+            "time_spent": 46
+          },
+          {
+            "created": "2023-08-10 18:47:11",
+            "time_spent": 63
+          },
+          {
+            "created": "2023-08-17 17:52:43",
             "time_spent": 61
+          },
+          {
+            "created": "2023-08-14 16:41:41",
+            "time_spent": 92
+          },
+          {
+            "created": "2023-08-18 14:10:42",
+            "time_spent": 65
+          },
+          {
+            "created": "2023-09-22 10:56:24",
+            "time_spent": 18
+          },
+          {
+            "created": "2023-09-05 16:40:34",
+            "time_spent": 12
+          },
+          {
+            "created": "2023-09-21 14:41:54",
+            "time_spent": 38
+          },
+          {
+            "created": "2023-09-05 17:10:42",
+            "time_spent": 21
+          },
+          {
+            "created": "2023-09-21 13:50:57",
+            "time_spent": 20
+          },
+          {
+            "created": "2023-09-06 14:50:54",
+            "time_spent": 4
+          },
+          {
+            "created": "2023-09-06 18:15:43",
+            "time_spent": 57
+          },
+          {
+            "created": "2023-09-06 18:31:05",
+            "time_spent": 11
+          },
+          {
+            "created": "2023-09-07 16:01:26",
+            "time_spent": 46
+          },
+          {
+            "created": "2023-09-07 16:43:00",
+            "time_spent": 4
+          },
+          {
+            "created": "2023-09-11 13:12:29",
+            "time_spent": 52
           }
         ],
-        "Total_sum": 159,
-        "Total_sum_with_hours": "02:39",
-        "Role": "Менеджер проектов",
-        "Customer": "DVA group/Два Групп"
-      }
-    },
-    "10930763": {
-      "Роман Балуков": {
+        "Total_sum": 962,
+        "Total_sum_with_hours": "16:02",
+        "Role": "Младший аналитик",
+        "Customer": "Web-Regata/Веб-регата"
+      },
+      "Андрей Дакалов": {
         "Time_spent": [
           {
-            "created": "2023-07-25 12:05:07",
+            "created": "2023-09-21 14:33:03",
+            "time_spent": 28
+          }
+        ],
+        "Total_sum": 28,
+        "Total_sum_with_hours": "00:28",
+        "Role": "Внедрение",
+        "Customer": "Web-Regata/Веб-регата"
+      }
+    },
+    "19349281": {
+      "Мария Никифорова": {
+        "Time_spent": [
+          {
+            "created": "2023-09-14 13:42:43",
             "time_spent": 5
           }
         ],
         "Total_sum": 5,
         "Total_sum_with_hours": "00:05",
-        "Role": "Менеджер проектов",
-        "Customer": "DVA group/Два Групп"
+        "Role": "Младший аналитик",
+        "Customer": "Святой Михаил"
       }
     },
-    "19490703": {
-      "Роман Балуков": {
-        "Time_spent": [
-          {
-            "created": "2023-09-15 12:39:12",
-            "time_spent": 19
-          }
-        ],
-        "Total_sum": 19,
-        "Total_sum_with_hours": "00:19",
-        "Role": "Менеджер проектов",
-        "Customer": "DVA group/Два Групп"
-      }
-    },
-    "17779823": {
+    "20021688": {
       "Андрей Дакалов": {
         "Time_spent": [
           {
-            "created": "2023-08-31 11:58:39",
-            "time_spent": 59
+            "created": "2023-09-22 09:38:41",
+            "time_spent": 9
           },
           {
-            "created": "2023-08-30 12:12:42",
-            "time_spent": 74
+            "created": "2023-09-19 12:15:56",
+            "time_spent": 18
           },
           {
-            "created": "2023-09-01 12:12:54",
-            "time_spent": 69
+            "created": "2023-09-19 10:26:53",
+            "time_spent": 31
           },
           {
-            "created": "2023-09-04 11:38:15",
-            "time_spent": 37
-          },
-          {
-            "created": "2023-09-05 11:29:54",
-            "time_spent": 30
-          },
-          {
-            "created": "2023-09-07 11:48:37",
-            "time_spent": 47
-          },
-          {
-            "created": "2023-09-08 11:52:30",
-            "time_spent": 51
-          },
-          {
-            "created": "2023-09-11 11:40:45",
-            "time_spent": 39
-          },
-          {
-            "created": "2023-09-12 11:59:27",
-            "time_spent": 56
-          },
-          {
-            "created": "2023-09-13 11:22:25",
-            "time_spent": 22
-          },
-          {
-            "created": "2023-09-14 12:17:02",
-            "time_spent": 77
-          },
-          {
-            "created": "2023-09-15 11:46:47",
-            "time_spent": 45
+            "created": "2023-09-19 17:46:08",
+            "time_spent": 14
           }
         ],
-        "Total_sum": 606,
-        "Total_sum_with_hours": "10:06",
+        "Total_sum": 72,
+        "Total_sum_with_hours": "01:12",
         "Role": "Внедрение",
-        "Customer": "Административные решения/Админка"
-      },
-      "Мария Никифорова": {
+        "Customer": "Святой Михаил"
+      }
+    },
+    "16862646": {
+      "Андрей Дакалов": {
         "Time_spent": [
           {
-            "created": "2023-08-30 11:49:26",
-            "time_spent": 49
+            "created": "2023-08-24 11:02:11",
+            "time_spent": 2
+          },
+          {
+            "created": "2023-09-18 14:48:54",
+            "time_spent": 62
+          },
+          {
+            "created": "2023-09-18 15:19:07",
+            "time_spent": 92
+          },
+          {
+            "created": "2023-09-15 16:38:39",
+            "time_spent": 23
           }
         ],
-        "Total_sum": 49,
-        "Total_sum_with_hours": "00:49",
-        "Role": "Младший аналитик",
-        "Customer": "Административные решения/Админка"
-      },
-      "Роман Балуков": {
-        "Time_spent": [
-          {
-            "created": "2023-09-01 12:05:52",
-            "time_spent": 41
-          },
-          {
-            "created": "2023-08-31 11:44:20",
-            "time_spent": 38
-          },
-          {
-            "created": "2023-08-30 11:50:14",
-            "time_spent": 50
-          },
-          {
-            "created": "2023-09-04 12:17:54",
-            "time_spent": 40
-          },
-          {
-            "created": "2023-08-29 12:32:46",
-            "time_spent": 52
-          },
-          {
-            "created": "2023-09-06 11:32:01",
-            "time_spent": 32
-          },
-          {
-            "created": "2023-09-07 12:08:38",
-            "time_spent": 29
-          },
-          {
-            "created": "2023-09-08 11:46:28",
-            "time_spent": 20
-          },
-          {
-            "created": "2023-09-11 11:29:01",
-            "time_spent": 29
-          },
-          {
-            "created": "2023-09-12 11:36:36",
-            "time_spent": 29
-          },
-          {
-            "created": "2023-09-13 12:10:46",
-            "time_spent": 15
-          },
-          {
-            "created": "2023-09-14 13:00:54",
-            "time_spent": 45
-          },
-          {
-            "created": "2023-09-15 11:47:02",
-            "time_spent": 34
-          }
-        ],
-        "Total_sum": 454,
-        "Total_sum_with_hours": "07:34",
-        "Role": "Web-Regata",
-        "Customer": "Административные решения/Админка"
+        "Total_sum": 179,
+        "Total_sum_with_hours": "02:59",
+        "Role": "Внедрение",
+        "Customer": "DVA group/Два Групп"
       },
       "Михаил Лаптов": {
         "Time_spent": [
           {
-            "created": "2023-09-15 12:04:55",
-            "time_spent": 35
-          }
-        ],
-        "Total_sum": 35,
-        "Total_sum_with_hours": "00:35",
-        "Role": "Менеджер проектов",
-        "Customer": "Административные решения/Админка"
-      }
-    },
-    "19485005": {
-      "Андрей Дакалов": {
-        "Time_spent": [
-          {
-            "created": "2023-09-15 11:54:57",
-            "time_spent": 4
-          }
-        ],
-        "Total_sum": 4,
-        "Total_sum_with_hours": "00:04",
-        "Role": "Внедрение",
-        "Customer": "TNF / Bernstein / ТНФ / Бернштейн"
-      }
-    },
-    "19367525": {
-      "Андрей Дакалов": {
-        "Time_spent": [
-          {
-            "created": "2023-09-14 16:57:43",
-            "time_spent": 19
+            "created": "2023-08-25 14:51:05",
+            "time_spent": 229
           },
           {
-            "created": "2023-09-14 17:12:37",
+            "created": "2023-08-22 17:18:19",
+            "time_spent": 25
+          },
+          {
+            "created": "2023-08-24 15:09:13",
+            "time_spent": 78
+          },
+          {
+            "created": "2023-08-23 18:34:09",
+            "time_spent": 56
+          },
+          {
+            "created": "2023-09-18 15:01:08",
             "time_spent": 11
           },
           {
-            "created": "2023-09-15 10:47:19",
-            "time_spent": 8
-          }
-        ],
-        "Total_sum": 38,
-        "Total_sum_with_hours": "00:38",
-        "Role": "Внедрение",
-        "Customer": "TNF / Bernstein / ТНФ / Бернштейн"
-      },
-      "Мария Никифорова": {
-        "Time_spent": [
+            "created": "2023-09-18 15:01:32",
+            "time_spent": 14
+          },
           {
-            "created": "2023-09-14 17:19:08",
+            "created": "2023-09-04 15:15:56",
+            "time_spent": 30
+          },
+          {
+            "created": "2023-08-24 16:50:48",
+            "time_spent": 80
+          },
+          {
+            "created": "2023-09-18 17:52:03",
+            "time_spent": 77
+          },
+          {
+            "created": "2023-09-18 19:21:02",
+            "time_spent": 53
+          },
+          {
+            "created": "2023-09-05 12:01:23",
+            "time_spent": 118
+          },
+          {
+            "created": "2023-09-21 16:19:06",
+            "time_spent": 18
+          },
+          {
+            "created": "2023-09-21 18:58:32",
+            "time_spent": 29
+          },
+          {
+            "created": "2023-09-21 18:04:13",
+            "time_spent": 1
+          },
+          {
+            "created": "2023-09-21 17:36:59",
+            "time_spent": 37
+          },
+          {
+            "created": "2023-09-19 18:18:38",
+            "time_spent": 70
+          },
+          {
+            "created": "2023-09-20 15:05:09",
+            "time_spent": 55
+          },
+          {
+            "created": "2023-09-20 17:41:40",
+            "time_spent": 125
+          },
+          {
+            "created": "2023-09-08 17:33:14",
+            "time_spent": 60
+          },
+          {
+            "created": "2023-09-08 18:54:07",
+            "time_spent": 55
+          },
+          {
+            "created": "2023-09-11 16:33:04",
+            "time_spent": 131
+          },
+          {
+            "created": "2023-09-11 18:42:19",
             "time_spent": 42
           },
           {
-            "created": "2023-09-15 10:57:51",
-            "time_spent": 7
+            "created": "2023-09-13 16:30:21",
+            "time_spent": 9
+          },
+          {
+            "created": "2023-09-14 15:12:28",
+            "time_spent": 98
+          },
+          {
+            "created": "2023-09-15 12:04:30",
+            "time_spent": 50
+          },
+          {
+            "created": "2023-09-15 14:18:24",
+            "time_spent": 133
+          },
+          {
+            "created": "2023-09-15 15:51:48",
+            "time_spent": 31
           }
         ],
-        "Total_sum": 49,
-        "Total_sum_with_hours": "00:49",
-        "Role": "Младший аналитик",
-        "Customer": "TNF / Bernstein / ТНФ / Бернштейн"
+        "Total_sum": 1715,
+        "Total_sum_with_hours": "28:35",
+        "Role": "Менеджер проектов",
+        "Customer": "DVA group/Два Групп"
+      },
+      "Роман Балуков": {
+        "Time_spent": [
+          {
+            "created": "2023-09-18 14:27:45",
+            "time_spent": 16
+          },
+          {
+            "created": "2023-08-25 13:35:35",
+            "time_spent": 65
+          },
+          {
+            "created": "2023-09-18 16:03:58",
+            "time_spent": 78
+          },
+          {
+            "created": "2023-09-08 13:28:14",
+            "time_spent": 28
+          },
+          {
+            "created": "2023-09-08 14:34:30",
+            "time_spent": 8
+          },
+          {
+            "created": "2023-09-14 13:42:19",
+            "time_spent": 12
+          },
+          {
+            "created": "2023-09-15 15:56:37",
+            "time_spent": 31
+          }
+        ],
+        "Total_sum": 238,
+        "Total_sum_with_hours": "03:58",
+        "Role": "Менеджер проектов",
+        "Customer": "DVA group/Два Групп"
+      }
+    },
+    "20181829": {
+      "Роман Балуков": {
+        "Time_spent": [
+          {
+            "created": "2023-09-21 11:25:43",
+            "time_spent": 20
+          },
+          {
+            "created": "2023-09-21 12:13:30",
+            "time_spent": 11
+          },
+          {
+            "created": "2023-09-21 16:05:14",
+            "time_spent": 44
+          },
+          {
+            "created": "2023-09-21 18:03:14",
+            "time_spent": 59
+          },
+          {
+            "created": "2023-09-21 18:57:01",
+            "time_spent": 11
+          },
+          {
+            "created": "2023-09-21 16:57:38",
+            "time_spent": 16
+          },
+          {
+            "created": "2023-09-20 13:31:56",
+            "time_spent": 94
+          },
+          {
+            "created": "2023-09-20 14:45:03",
+            "time_spent": 64
+          },
+          {
+            "created": "2023-09-20 17:36:44",
+            "time_spent": 20
+          },
+          {
+            "created": "2023-09-20 17:49:46",
+            "time_spent": 13
+          },
+          {
+            "created": "2023-09-20 18:32:44",
+            "time_spent": 31
+          }
+        ],
+        "Total_sum": 383,
+        "Total_sum_with_hours": "06:23",
+        "Role": "Менеджер проектов",
+        "Customer": "R4S"
+      }
+    },
+    "20331921": {
+      "Михаил Лаптов": {
+        "Time_spent": [
+          {
+            "created": "2023-09-21 18:42:32",
+            "time_spent": 37
+          }
+        ],
+        "Total_sum": 37,
+        "Total_sum_with_hours": "00:37",
+        "Role": "Менеджер проектов",
+        "Customer": "Nedvix/Недвикс"
+      }
+    },
+    "12920381": {
+      "Михаил Лаптов": {
+        "Time_spent": [
+          {
+            "created": "2023-08-21 19:24:11",
+            "time_spent": 56
+          },
+          {
+            "created": "2023-07-31 12:14:11",
+            "time_spent": 64
+          }
+        ],
+        "Total_sum": 120,
+        "Total_sum_with_hours": "02:00",
+        "Role": "Менеджер проектов",
+        "Customer": "Сортмет"
+      }
+    },
+    "13088071": {
+      "Михаил Лаптов": {
+        "Time_spent": [
+          {
+            "created": "2023-08-11 18:22:43",
+            "time_spent": 39
+          },
+          {
+            "created": "2023-08-03 13:12:45",
+            "time_spent": 5
+          },
+          {
+            "created": "2023-08-09 12:58:24",
+            "time_spent": 28
+          },
+          {
+            "created": "2023-08-10 11:54:21",
+            "time_spent": 28
+          },
+          {
+            "created": "2023-08-08 14:06:52",
+            "time_spent": 43
+          },
+          {
+            "created": "2023-08-09 13:23:34",
+            "time_spent": 25
+          },
+          {
+            "created": "2023-08-16 18:25:17",
+            "time_spent": 126
+          },
+          {
+            "created": "2023-08-03 14:58:34",
+            "time_spent": 58
+          },
+          {
+            "created": "2023-08-11 12:06:41",
+            "time_spent": 53
+          },
+          {
+            "created": "2023-08-02 11:30:13",
+            "time_spent": 45
+          },
+          {
+            "created": "2023-08-03 16:22:29",
+            "time_spent": 142
+          },
+          {
+            "created": "2023-08-08 16:47:09",
+            "time_spent": 44
+          },
+          {
+            "created": "2023-08-09 15:57:26",
+            "time_spent": 55
+          },
+          {
+            "created": "2023-08-03 20:04:55",
+            "time_spent": 65
+          },
+          {
+            "created": "2023-08-10 17:01:05",
+            "time_spent": 15
+          },
+          {
+            "created": "2023-08-17 17:58:35",
+            "time_spent": 24
+          },
+          {
+            "created": "2023-08-18 14:33:25",
+            "time_spent": 133
+          },
+          {
+            "created": "2023-09-14 10:53:37",
+            "time_spent": 15
+          },
+          {
+            "created": "2023-09-14 11:30:32",
+            "time_spent": 34
+          },
+          {
+            "created": "2023-09-14 13:03:19",
+            "time_spent": 34
+          }
+        ],
+        "Total_sum": 1011,
+        "Total_sum_with_hours": "16:51",
+        "Role": "Менеджер проектов",
+        "Customer": "ТСИ-Казань"
+      },
+      "Роман Балуков": {
+        "Time_spent": [
+          {
+            "created": "2023-09-21 13:46:09",
+            "time_spent": 32
+          }
+        ],
+        "Total_sum": 32,
+        "Total_sum_with_hours": "00:32",
+        "Role": "Менеджер проектов",
+        "Customer": "ТСИ-Казань"
       }
     },
     "10927565": {
       "Андрей Дакалов": {
         "Time_spent": [
+          {
+            "created": "2023-09-18 11:09:04",
+            "time_spent": 88
+          },
           {
             "created": "2023-06-23 09:52:07",
             "time_spent": 2
@@ -1714,6 +2044,10 @@
           {
             "created": "2023-07-07 12:20:58",
             "time_spent": 64
+          },
+          {
+            "created": "2023-09-18 10:10:07",
+            "time_spent": 29
           },
           {
             "created": "2023-07-10 10:34:03",
@@ -1968,12 +2302,28 @@
             "time_spent": 1
           },
           {
+            "created": "2023-09-21 10:00:59",
+            "time_spent": 8
+          },
+          {
+            "created": "2023-09-21 12:31:00",
+            "time_spent": 11
+          },
+          {
+            "created": "2023-09-21 13:06:04",
+            "time_spent": 8
+          },
+          {
             "created": "2023-09-06 10:05:41",
             "time_spent": 14
           },
           {
             "created": "2023-09-06 13:58:36",
             "time_spent": 16
+          },
+          {
+            "created": "2023-09-20 17:44:20",
+            "time_spent": 13
           },
           {
             "created": "2023-09-07 09:34:17",
@@ -2008,722 +2358,10 @@
             "time_spent": 18
           }
         ],
-        "Total_sum": 2456,
-        "Total_sum_with_hours": "40:56",
+        "Total_sum": 2613,
+        "Total_sum_with_hours": "43:33",
         "Role": "Внедрение",
         "Customer": "Административные решения/Админка"
-      }
-    },
-    "16431814": {
-      "Мария Никифорова": {
-        "Time_spent": [
-          {
-            "created": "2023-09-01 14:51:27",
-            "time_spent": 111
-          },
-          {
-            "created": "2023-09-01 14:56:51",
-            "time_spent": 4
-          },
-          {
-            "created": "2023-08-31 11:55:01",
-            "time_spent": 75
-          },
-          {
-            "created": "2023-08-31 12:18:06",
-            "time_spent": 18
-          },
-          {
-            "created": "2023-08-31 14:10:00",
-            "time_spent": 87
-          },
-          {
-            "created": "2023-08-30 13:19:38",
-            "time_spent": 59
-          },
-          {
-            "created": "2023-08-28 15:23:18",
-            "time_spent": 8
-          },
-          {
-            "created": "2023-08-31 14:51:58",
-            "time_spent": 42
-          },
-          {
-            "created": "2023-08-30 13:27:01",
-            "time_spent": 20
-          },
-          {
-            "created": "2023-08-28 15:39:45",
-            "time_spent": 4
-          },
-          {
-            "created": "2023-08-28 15:14:02",
-            "time_spent": 25
-          },
-          {
-            "created": "2023-08-28 16:01:18",
-            "time_spent": 13
-          },
-          {
-            "created": "2023-08-30 17:48:56",
-            "time_spent": 95
-          },
-          {
-            "created": "2023-08-18 16:33:46",
-            "time_spent": 3
-          },
-          {
-            "created": "2023-08-28 16:42:42",
-            "time_spent": 35
-          },
-          {
-            "created": "2023-08-28 17:19:39",
-            "time_spent": 36
-          },
-          {
-            "created": "2023-08-29 10:37:55",
-            "time_spent": 23
-          },
-          {
-            "created": "2023-08-21 11:33:01",
-            "time_spent": 41
-          },
-          {
-            "created": "2023-08-21 13:04:33",
-            "time_spent": 28
-          },
-          {
-            "created": "2023-08-29 15:01:38",
-            "time_spent": 35
-          },
-          {
-            "created": "2023-08-31 10:39:33",
-            "time_spent": 59
-          },
-          {
-            "created": "2023-08-29 14:53:39",
-            "time_spent": 27
-          }
-        ],
-        "Total_sum": 848,
-        "Total_sum_with_hours": "14:08",
-        "Role": "Младший аналитик",
-        "Customer": "DVA group/Два Групп"
-      },
-      "Роман Балуков": {
-        "Time_spent": [
-          {
-            "created": "2023-08-31 10:56:22",
-            "time_spent": 54
-          },
-          {
-            "created": "2023-08-31 15:05:07",
-            "time_spent": 120
-          },
-          {
-            "created": "2023-08-30 16:51:35",
-            "time_spent": 35
-          },
-          {
-            "created": "2023-08-30 17:45:27",
-            "time_spent": 54
-          },
-          {
-            "created": "2023-09-01 14:25:08",
-            "time_spent": 85
-          },
-          {
-            "created": "2023-09-04 12:20:17",
-            "time_spent": 2
-          },
-          {
-            "created": "2023-09-04 13:20:56",
-            "time_spent": 21
-          },
-          {
-            "created": "2023-09-04 15:23:01",
-            "time_spent": 77
-          },
-          {
-            "created": "2023-09-05 19:44:46",
-            "time_spent": 78
-          },
-          {
-            "created": "2023-09-12 13:50:28",
-            "time_spent": 28
-          },
-          {
-            "created": "2023-09-12 15:38:02",
-            "time_spent": 41
-          },
-          {
-            "created": "2023-09-12 17:33:36",
-            "time_spent": 94
-          },
-          {
-            "created": "2023-09-12 18:15:57",
-            "time_spent": 37
-          },
-          {
-            "created": "2023-09-12 19:36:50",
-            "time_spent": 87
-          },
-          {
-            "created": "2023-09-14 15:37:35",
-            "time_spent": 81
-          },
-          {
-            "created": "2023-09-14 19:03:09",
-            "time_spent": 50
-          }
-        ],
-        "Total_sum": 944,
-        "Total_sum_with_hours": "15:44",
-        "Role": "Внедрение",
-        "Customer": "DVA group/Два Групп"
-      },
-      "Михаил Лаптов": {
-        "Time_spent": [
-          {
-            "created": "2023-08-30 17:38:07",
-            "time_spent": 75
-          },
-          {
-            "created": "2023-08-21 11:55:53",
-            "time_spent": 71
-          },
-          {
-            "created": "2023-08-21 18:17:11",
-            "time_spent": 98
-          },
-          {
-            "created": "2023-08-21 14:19:25",
-            "time_spent": 129
-          },
-          {
-            "created": "2023-09-12 19:09:42",
-            "time_spent": 192
-          }
-        ],
-        "Total_sum": 565,
-        "Total_sum_with_hours": "09:25",
-        "Role": "Менеджер проектов",
-        "Customer": "DVA group/Два Групп"
-      }
-    },
-    "19192029": {
-      "Михаил Лаптов": {
-        "Time_spent": [
-          {
-            "created": "2023-09-13 15:50:43",
-            "time_spent": 49
-          },
-          {
-            "created": "2023-09-14 18:46:11",
-            "time_spent": 49
-          }
-        ],
-        "Total_sum": 98,
-        "Total_sum_with_hours": "01:38",
-        "Role": "Менеджер проектов",
-        "Customer": "Атлас Девелопмент"
-      }
-    },
-    "18976846": {
-      "Михаил Лаптов": {
-        "Time_spent": [
-          {
-            "created": "2023-09-12 13:17:36",
-            "time_spent": 20
-          },
-          {
-            "created": "2023-09-12 15:04:35",
-            "time_spent": 23
-          },
-          {
-            "created": "2023-09-14 17:43:57",
-            "time_spent": 108
-          }
-        ],
-        "Total_sum": 151,
-        "Total_sum_with_hours": "02:31",
-        "Role": "Менеджер проектов",
-        "Customer": "DVA group/Два Групп"
-      },
-      "Роман Балуков": {
-        "Time_spent": [
-          {
-            "created": "2023-09-14 16:41:05",
-            "time_spent": 41
-          },
-          {
-            "created": "2023-09-14 17:45:09",
-            "time_spent": 44
-          }
-        ],
-        "Total_sum": 85,
-        "Total_sum_with_hours": "01:25",
-        "Role": "Менеджер проектов",
-        "Customer": "DVA group/Два Групп"
-      }
-    },
-    "19358501": {
-      "Мария Никифорова": {
-        "Time_spent": [
-          {
-            "created": "2023-09-14 15:59:20",
-            "time_spent": 22
-          },
-          {
-            "created": "2023-09-14 15:19:36",
-            "time_spent": 21
-          }
-        ],
-        "Total_sum": 43,
-        "Total_sum_with_hours": "00:43",
-        "Role": "Младший аналитик",
-        "Customer": "Artsofte Digital/Артсофте"
-      }
-    },
-    "18908729": {
-      "Роман Балуков": {
-        "Time_spent": [
-          {
-            "created": "2023-09-11 18:11:08",
-            "time_spent": 21
-          }
-        ],
-        "Total_sum": 21,
-        "Total_sum_with_hours": "00:21",
-        "Role": "Менеджер проектов",
-        "Customer": "Прометей"
-      },
-      "Андрей Дакалов": {
-        "Time_spent": [
-          {
-            "created": "2023-09-14 15:51:41",
-            "time_spent": 35
-          }
-        ],
-        "Total_sum": 35,
-        "Total_sum_with_hours": "00:35",
-        "Role": "Внедрение",
-        "Customer": "Прометей"
-      }
-    },
-    "19170379": {
-      "Роман Балуков": {
-        "Time_spent": [
-          {
-            "created": "2023-09-13 12:49:50",
-            "time_spent": 38
-          },
-          {
-            "created": "2023-09-13 14:57:35",
-            "time_spent": 58
-          },
-          {
-            "created": "2023-09-13 16:47:57",
-            "time_spent": 60
-          }
-        ],
-        "Total_sum": 156,
-        "Total_sum_with_hours": "02:36",
-        "Role": "Менеджер проектов",
-        "Customer": "Прометей"
-      }
-    },
-    "16062920": {
-      "Мария Никифорова": {
-        "Time_spent": [
-          {
-            "created": "2023-08-29 17:01:27",
-            "time_spent": 29
-          },
-          {
-            "created": "2023-08-30 12:13:07",
-            "time_spent": 20
-          },
-          {
-            "created": "2023-08-29 17:50:27",
-            "time_spent": 48
-          },
-          {
-            "created": "2023-09-06 19:07:56",
-            "time_spent": 23
-          },
-          {
-            "created": "2023-09-07 14:50:11",
-            "time_spent": 30
-          },
-          {
-            "created": "2023-09-11 10:30:26",
-            "time_spent": 13
-          },
-          {
-            "created": "2023-09-12 12:55:38",
-            "time_spent": 30
-          },
-          {
-            "created": "2023-09-12 13:39:51",
-            "time_spent": 21
-          },
-          {
-            "created": "2023-09-14 10:33:38",
-            "time_spent": 29
-          },
-          {
-            "created": "2023-09-14 14:10:39",
-            "time_spent": 22
-          }
-        ],
-        "Total_sum": 265,
-        "Total_sum_with_hours": "04:25",
-        "Role": "Младший аналитик",
-        "Customer": "Святой Михаил"
-      },
-      "Андрей Дакалов": {
-        "Time_spent": [
-          {
-            "created": "2023-09-07 10:43:37",
-            "time_spent": 10
-          },
-          {
-            "created": "2023-09-07 14:02:11",
-            "time_spent": 9
-          },
-          {
-            "created": "2023-09-07 16:01:03",
-            "time_spent": 33
-          },
-          {
-            "created": "2023-09-07 16:16:08",
-            "time_spent": 7
-          },
-          {
-            "created": "2023-09-11 10:17:26",
-            "time_spent": 16
-          },
-          {
-            "created": "2023-09-12 14:12:16",
-            "time_spent": 17
-          },
-          {
-            "created": "2023-09-14 11:00:56",
-            "time_spent": 16
-          },
-          {
-            "created": "2023-09-14 14:06:11",
-            "time_spent": 7
-          }
-        ],
-        "Total_sum": 115,
-        "Total_sum_with_hours": "01:55",
-        "Role": "Внедрение",
-        "Customer": "Святой Михаил"
-      }
-    },
-    "19349281": {
-      "Мария Никифорова": {
-        "Time_spent": [
-          {
-            "created": "2023-09-14 13:42:43",
-            "time_spent": 5
-          }
-        ],
-        "Total_sum": 5,
-        "Total_sum_with_hours": "00:05",
-        "Role": "Младший аналитик",
-        "Customer": "Святой Михаил"
-      }
-    },
-    "18033254": {
-      "Андрей Дакалов": {
-        "Time_spent": [
-          {
-            "created": "2023-08-31 12:33:41",
-            "time_spent": 22
-          }
-        ],
-        "Total_sum": 22,
-        "Total_sum_with_hours": "00:22",
-        "Role": "Внедрение",
-        "Customer": "Первая кровельная"
-      },
-      "Михаил Лаптов": {
-        "Time_spent": [
-          {
-            "created": "2023-08-31 13:01:39",
-            "time_spent": 89
-          }
-        ],
-        "Total_sum": 89,
-        "Total_sum_with_hours": "01:29",
-        "Role": "Менеджер проектов",
-        "Customer": "Первая кровельная"
-      }
-    },
-    "19320759": {
-      "Мария Никифорова": {
-        "Time_spent": [
-          {
-            "created": "2023-09-14 09:52:23",
-            "time_spent": 12
-          }
-        ],
-        "Total_sum": 12,
-        "Total_sum_with_hours": "00:12",
-        "Role": "Младший аналитик",
-        "Customer": "TNF / Bernstein / ТНФ / Бернштейн"
-      },
-      "Андрей Дакалов": {
-        "Time_spent": [
-          {
-            "created": "2023-09-14 10:44:27",
-            "time_spent": 31
-          },
-          {
-            "created": "2023-09-14 13:07:48",
-            "time_spent": 5
-          }
-        ],
-        "Total_sum": 36,
-        "Total_sum_with_hours": "00:36",
-        "Role": "Внедрение",
-        "Customer": "TNF / Bernstein / ТНФ / Бернштейн"
-      }
-    },
-    "13088071": {
-      "Михаил Лаптов": {
-        "Time_spent": [
-          {
-            "created": "2023-08-11 18:22:43",
-            "time_spent": 39
-          },
-          {
-            "created": "2023-08-03 13:12:45",
-            "time_spent": 5
-          },
-          {
-            "created": "2023-08-09 12:58:24",
-            "time_spent": 28
-          },
-          {
-            "created": "2023-08-10 11:54:21",
-            "time_spent": 28
-          },
-          {
-            "created": "2023-08-08 14:06:52",
-            "time_spent": 43
-          },
-          {
-            "created": "2023-08-09 13:23:34",
-            "time_spent": 25
-          },
-          {
-            "created": "2023-08-16 18:25:17",
-            "time_spent": 126
-          },
-          {
-            "created": "2023-08-03 14:58:34",
-            "time_spent": 58
-          },
-          {
-            "created": "2023-08-11 12:06:41",
-            "time_spent": 53
-          },
-          {
-            "created": "2023-08-02 11:30:13",
-            "time_spent": 45
-          },
-          {
-            "created": "2023-08-03 16:22:29",
-            "time_spent": 142
-          },
-          {
-            "created": "2023-08-08 16:47:09",
-            "time_spent": 44
-          },
-          {
-            "created": "2023-08-09 15:57:26",
-            "time_spent": 55
-          },
-          {
-            "created": "2023-08-03 20:04:55",
-            "time_spent": 65
-          },
-          {
-            "created": "2023-08-10 17:01:05",
-            "time_spent": 15
-          },
-          {
-            "created": "2023-08-17 17:58:35",
-            "time_spent": 24
-          },
-          {
-            "created": "2023-08-18 14:33:25",
-            "time_spent": 133
-          },
-          {
-            "created": "2023-09-14 10:53:37",
-            "time_spent": 15
-          },
-          {
-            "created": "2023-09-14 11:30:32",
-            "time_spent": 34
-          },
-          {
-            "created": "2023-09-14 13:03:19",
-            "time_spent": 34
-          }
-        ],
-        "Total_sum": 1011,
-        "Total_sum_with_hours": "16:51",
-        "Role": "Менеджер проектов",
-        "Customer": "ТСИ-Казань"
-      }
-    },
-    "19330729": {
-      "Андрей Дакалов": {
-        "Time_spent": [
-          {
-            "created": "2023-09-14 13:02:51",
-            "time_spent": 43
-          },
-          {
-            "created": "2023-09-14 12:49:03",
-            "time_spent": 29
-          }
-        ],
-        "Total_sum": 72,
-        "Total_sum_with_hours": "01:12",
-        "Role": "Внедрение",
-        "Customer": "Web-Regata/Веб-регата"
-      }
-    },
-    "19038235": {
-      "Роман Балуков": {
-        "Time_spent": [
-          {
-            "created": "2023-09-13 19:03:06",
-            "time_spent": 18
-          }
-        ],
-        "Total_sum": 18,
-        "Total_sum_with_hours": "00:18",
-        "Role": "Менеджер проектов",
-        "Customer": "ГК Ньютон | Newton"
-      }
-    },
-    "11221969": {
-      "Роман Балуков": {
-        "Time_spent": [
-          {
-            "created": "2023-08-31 12:06:55",
-            "time_spent": 15
-          },
-          {
-            "created": "2023-08-25 14:21:04",
-            "time_spent": 21
-          },
-          {
-            "created": "2023-08-28 14:17:31",
-            "time_spent": 17
-          },
-          {
-            "created": "2023-08-03 19:01:56",
-            "time_spent": 7
-          },
-          {
-            "created": "2023-07-25 10:53:08",
-            "time_spent": 8
-          },
-          {
-            "created": "2023-08-24 17:20:49",
-            "time_spent": 11
-          },
-          {
-            "created": "2023-09-13 17:57:38",
-            "time_spent": 23
-          }
-        ],
-        "Total_sum": 102,
-        "Total_sum_with_hours": "01:42",
-        "Role": "СТП 1 линия",
-        "Customer": "Синергия"
-      }
-    },
-    "19190394": {
-      "Мария Никифорова": {
-        "Time_spent": [
-          {
-            "created": "2023-09-13 16:03:30",
-            "time_spent": 37
-          },
-          {
-            "created": "2023-09-13 15:07:03",
-            "time_spent": 23
-          }
-        ],
-        "Total_sum": 60,
-        "Total_sum_with_hours": "01:00",
-        "Role": "Младший аналитик",
-        "Customer": "TNF / Bernstein / ТНФ / Бернштейн"
-      },
-      "Андрей Дакалов": {
-        "Time_spent": [
-          {
-            "created": "2023-09-13 16:02:25",
-            "time_spent": 36
-          },
-          {
-            "created": "2023-09-13 16:27:06",
-            "time_spent": 5
-          },
-          {
-            "created": "2023-09-13 16:31:56",
-            "time_spent": 4
-          }
-        ],
-        "Total_sum": 45,
-        "Total_sum_with_hours": "00:45",
-        "Role": "Внедрение",
-        "Customer": "TNF / Bernstein / ТНФ / Бернштейн"
-      }
-    },
-    "12031193": {
-      "Мария Никифорова": {
-        "Time_spent": [
-          {
-            "created": "2023-07-17 15:28:52",
-            "time_spent": 15
-          },
-          {
-            "created": "2023-07-21 15:01:32",
-            "time_spent": 40
-          },
-          {
-            "created": "2023-07-21 15:08:39",
-            "time_spent": 3
-          }
-        ],
-        "Total_sum": 58,
-        "Total_sum_with_hours": "00:58",
-        "Role": "Младший аналитик",
-        "Customer": "МСК-ДОН"
-      },
-      "Михаил Лаптов": {
-        "Time_spent": [
-          {
-            "created": "2023-09-13 14:57:13",
-            "time_spent": 62
-          }
-        ],
-        "Total_sum": 62,
-        "Total_sum_with_hours": "01:02",
-        "Role": "Менеджер проектов",
-        "Customer": "МСК-ДОН"
       }
     },
     "18204164": {
@@ -2734,8 +2372,16 @@
             "time_spent": 96
           },
           {
+            "created": "2023-09-18 13:33:24",
+            "time_spent": 61
+          },
+          {
             "created": "2023-09-04 11:23:21",
             "time_spent": 62
+          },
+          {
+            "created": "2023-09-21 10:51:53",
+            "time_spent": 11
           },
           {
             "created": "2023-09-05 14:34:07",
@@ -2778,8 +2424,8 @@
             "time_spent": 161
           }
         ],
-        "Total_sum": 742,
-        "Total_sum_with_hours": "12:22",
+        "Total_sum": 814,
+        "Total_sum_with_hours": "13:34",
         "Role": "Менеджер проектов",
         "Customer": "Альфаограждения | ДубльДом"
       },
@@ -2798,6 +2444,674 @@
         "Total_sum_with_hours": "00:56",
         "Role": "Внедрение",
         "Customer": "Альфаограждения | ДубльДом"
+      }
+    },
+    "20204766": {
+      "Роман Балуков": {
+        "Time_spent": [
+          {
+            "created": "2023-09-20 15:21:59",
+            "time_spent": 22
+          }
+        ],
+        "Total_sum": 22,
+        "Total_sum_with_hours": "00:22",
+        "Role": "Менеджер проектов",
+        "Customer": "Брафиттинг / Brafitting"
+      }
+    },
+    "20220995": {
+      "Андрей Дакалов": {
+        "Time_spent": [
+          {
+            "created": "2023-09-21 09:52:18",
+            "time_spent": 7
+          }
+        ],
+        "Total_sum": 7,
+        "Total_sum_with_hours": "00:07",
+        "Role": "Внедрение",
+        "Customer": "Sense/Сенсе"
+      }
+    },
+    "18570821": {
+      "Михаил Лаптов": {
+        "Time_spent": [
+          {
+            "created": "2023-09-06 12:30:07",
+            "time_spent": 61
+          },
+          {
+            "created": "2023-09-06 15:59:25",
+            "time_spent": 12
+          }
+        ],
+        "Total_sum": 73,
+        "Total_sum_with_hours": "01:13",
+        "Role": "Менеджер проектов",
+        "Customer": "МСК-ДОН"
+      },
+      "Андрей Дакалов": {
+        "Time_spent": [
+          {
+            "created": "2023-09-06 14:54:11",
+            "time_spent": 56
+          },
+          {
+            "created": "2023-09-06 16:05:55",
+            "time_spent": 6
+          }
+        ],
+        "Total_sum": 62,
+        "Total_sum_with_hours": "01:02",
+        "Role": "Внедрение",
+        "Customer": "МСК-ДОН"
+      }
+    },
+    "20209987": {
+      "Роман Балуков": {
+        "Time_spent": [
+          {
+            "created": "2023-09-20 16:56:59",
+            "time_spent": 46
+          }
+        ],
+        "Total_sum": 46,
+        "Total_sum_with_hours": "00:46",
+        "Role": "Менеджер проектов",
+        "Customer": "Прометей"
+      }
+    },
+    "12031193": {
+      "Мария Никифорова": {
+        "Time_spent": [
+          {
+            "created": "2023-07-17 15:28:52",
+            "time_spent": 15
+          },
+          {
+            "created": "2023-07-21 15:01:32",
+            "time_spent": 40
+          },
+          {
+            "created": "2023-07-21 15:08:39",
+            "time_spent": 3
+          }
+        ],
+        "Total_sum": 58,
+        "Total_sum_with_hours": "00:58",
+        "Role": "Младший аналитик",
+        "Customer": "МСК-ДОН"
+      },
+      "Андрей Дакалов": {
+        "Time_spent": [
+          {
+            "created": "2023-09-20 13:00:46",
+            "time_spent": 7
+          }
+        ],
+        "Total_sum": 7,
+        "Total_sum_with_hours": "00:07",
+        "Role": "Внедрение",
+        "Customer": "МСК-ДОН"
+      },
+      "Михаил Лаптов": {
+        "Time_spent": [
+          {
+            "created": "2023-09-13 14:57:13",
+            "time_spent": 62
+          }
+        ],
+        "Total_sum": 62,
+        "Total_sum_with_hours": "01:02",
+        "Role": "Менеджер проектов",
+        "Customer": "МСК-ДОН"
+      }
+    },
+    "19170379": {
+      "Роман Балуков": {
+        "Time_spent": [
+          {
+            "created": "2023-09-13 12:49:50",
+            "time_spent": 38
+          },
+          {
+            "created": "2023-09-13 14:57:35",
+            "time_spent": 58
+          },
+          {
+            "created": "2023-09-13 16:47:57",
+            "time_spent": 60
+          }
+        ],
+        "Total_sum": 156,
+        "Total_sum_with_hours": "02:36",
+        "Role": "Менеджер проектов",
+        "Customer": "Прометей"
+      }
+    },
+    "20171134": {
+      "Роман Балуков": {
+        "Time_spent": [
+          {
+            "created": "2023-09-20 11:01:53",
+            "time_spent": 20
+          }
+        ],
+        "Total_sum": 20,
+        "Total_sum_with_hours": "00:20",
+        "Role": "Менеджер проектов",
+        "Customer": "Прометей"
+      }
+    },
+    "19046372": {
+      "Михаил Лаптов": {
+        "Time_spent": [
+          {
+            "created": "2023-09-18 18:04:05",
+            "time_spent": 7
+          },
+          {
+            "created": "2023-09-20 15:36:26",
+            "time_spent": 31
+          }
+        ],
+        "Total_sum": 38,
+        "Total_sum_with_hours": "00:38",
+        "Role": "Менеджер проектов",
+        "Customer": "Брафиттинг / Brafitting"
+      }
+    },
+    "19926484": {
+      "Мария Никифорова": {
+        "Time_spent": [
+          {
+            "created": "2023-09-18 16:55:21",
+            "time_spent": 27
+          },
+          {
+            "created": "2023-09-18 17:26:50",
+            "time_spent": 13
+          }
+        ],
+        "Total_sum": 40,
+        "Total_sum_with_hours": "00:40",
+        "Role": "Младший аналитик",
+        "Customer": "Святой Михаил"
+      },
+      "Андрей Дакалов": {
+        "Time_spent": [
+          {
+            "created": "2023-09-20 15:55:14",
+            "time_spent": 8
+          }
+        ],
+        "Total_sum": 8,
+        "Total_sum_with_hours": "00:08",
+        "Role": "Внедрение",
+        "Customer": "Святой Михаил"
+      }
+    },
+    "17789332": {
+      "Мария Никифорова": {
+        "Time_spent": [
+          {
+            "created": "2023-08-30 12:17:01",
+            "time_spent": 2
+          },
+          {
+            "created": "2023-08-29 13:47:06",
+            "time_spent": 22
+          },
+          {
+            "created": "2023-09-05 11:58:28",
+            "time_spent": 11
+          },
+          {
+            "created": "2023-09-05 18:13:06",
+            "time_spent": 48
+          },
+          {
+            "created": "2023-09-05 18:13:30",
+            "time_spent": 48
+          },
+          {
+            "created": "2023-09-06 14:25:34",
+            "time_spent": 5
+          },
+          {
+            "created": "2023-09-06 14:37:24",
+            "time_spent": 12
+          }
+        ],
+        "Total_sum": 148,
+        "Total_sum_with_hours": "02:28",
+        "Role": "Младший аналитик",
+        "Customer": "TNF / Bernstein / ТНФ / Бернштейн"
+      },
+      "Андрей Дакалов": {
+        "Time_spent": [
+          {
+            "created": "2023-08-30 14:52:33",
+            "time_spent": 69
+          },
+          {
+            "created": "2023-08-30 15:30:35",
+            "time_spent": 21
+          },
+          {
+            "created": "2023-09-05 10:59:40",
+            "time_spent": 10
+          }
+        ],
+        "Total_sum": 100,
+        "Total_sum_with_hours": "01:40",
+        "Role": "Внедрение",
+        "Customer": "TNF / Bernstein / ТНФ / Бернштейн"
+      }
+    },
+    "17016568": {
+      "Мария Никифорова": {
+        "Time_spent": [
+          {
+            "created": "2023-08-24 11:03:23",
+            "time_spent": 16
+          },
+          {
+            "created": "2023-08-25 15:55:52",
+            "time_spent": 19
+          },
+          {
+            "created": "2023-08-23 16:22:50",
+            "time_spent": 16
+          },
+          {
+            "created": "2023-08-24 10:44:02",
+            "time_spent": 20
+          },
+          {
+            "created": "2023-08-23 17:14:49",
+            "time_spent": 45
+          },
+          {
+            "created": "2023-08-23 17:52:46",
+            "time_spent": 14
+          },
+          {
+            "created": "2023-08-23 12:47:53",
+            "time_spent": 16
+          },
+          {
+            "created": "2023-08-24 17:52:03",
+            "time_spent": 5
+          },
+          {
+            "created": "2023-08-23 14:59:59",
+            "time_spent": 67
+          },
+          {
+            "created": "2023-09-20 13:27:27",
+            "time_spent": 37
+          }
+        ],
+        "Total_sum": 255,
+        "Total_sum_with_hours": "04:15",
+        "Role": "Младший аналитик",
+        "Customer": "Web-Regata/Веб-регата"
+      }
+    },
+    "16062920": {
+      "Мария Никифорова": {
+        "Time_spent": [
+          {
+            "created": "2023-08-29 17:01:27",
+            "time_spent": 29
+          },
+          {
+            "created": "2023-08-30 12:13:07",
+            "time_spent": 20
+          },
+          {
+            "created": "2023-08-29 17:50:27",
+            "time_spent": 48
+          },
+          {
+            "created": "2023-09-20 10:52:43",
+            "time_spent": 33
+          },
+          {
+            "created": "2023-09-06 19:07:56",
+            "time_spent": 23
+          },
+          {
+            "created": "2023-09-07 14:50:11",
+            "time_spent": 30
+          },
+          {
+            "created": "2023-09-11 10:30:26",
+            "time_spent": 13
+          },
+          {
+            "created": "2023-09-12 12:55:38",
+            "time_spent": 30
+          },
+          {
+            "created": "2023-09-12 13:39:51",
+            "time_spent": 21
+          },
+          {
+            "created": "2023-09-14 10:33:38",
+            "time_spent": 29
+          },
+          {
+            "created": "2023-09-14 14:10:39",
+            "time_spent": 22
+          }
+        ],
+        "Total_sum": 298,
+        "Total_sum_with_hours": "04:58",
+        "Role": "Младший аналитик",
+        "Customer": "Святой Михаил"
+      },
+      "Андрей Дакалов": {
+        "Time_spent": [
+          {
+            "created": "2023-09-19 16:58:29",
+            "time_spent": 13
+          },
+          {
+            "created": "2023-09-07 10:43:37",
+            "time_spent": 10
+          },
+          {
+            "created": "2023-09-07 14:02:11",
+            "time_spent": 9
+          },
+          {
+            "created": "2023-09-07 16:01:03",
+            "time_spent": 33
+          },
+          {
+            "created": "2023-09-07 16:16:08",
+            "time_spent": 7
+          },
+          {
+            "created": "2023-09-11 10:17:26",
+            "time_spent": 16
+          },
+          {
+            "created": "2023-09-12 14:12:16",
+            "time_spent": 17
+          },
+          {
+            "created": "2023-09-14 11:00:56",
+            "time_spent": 16
+          },
+          {
+            "created": "2023-09-14 14:06:11",
+            "time_spent": 7
+          }
+        ],
+        "Total_sum": 128,
+        "Total_sum_with_hours": "02:08",
+        "Role": "Внедрение",
+        "Customer": "Святой Михаил"
+      }
+    },
+    "10708756": {
+      "Инна Пильщикова": {
+        "Time_spent": [
+          {
+            "created": "2023-09-04 11:19:17",
+            "time_spent": 2
+          }
+        ],
+        "Total_sum": 2,
+        "Total_sum_with_hours": "00:02",
+        "Role": "СТП 1 линия",
+        "Customer": "Sense/Сенсе"
+      },
+      "Василий Матрюк": {
+        "Time_spent": [
+          {
+            "created": "2023-09-20 10:33:28",
+            "time_spent": 6
+          }
+        ],
+        "Total_sum": 6,
+        "Total_sum_with_hours": "00:06",
+        "Role": "СТП 2 линия",
+        "Customer": "Sense/Сенсе"
+      }
+    },
+    "17048452": {
+      "Инна Пильщикова": {
+        "Time_spent": [
+          {
+            "created": "2023-08-23 15:45:26",
+            "time_spent": 45
+          }
+        ],
+        "Total_sum": 45,
+        "Total_sum_with_hours": "00:45",
+        "Role": "Внедрение",
+        "Customer": "Альфаограждения | ДубльДом"
+      }
+    },
+    "18471822": {
+      "Инна Пильщикова": {
+        "Time_spent": [
+          {
+            "created": "2023-09-05 16:11:47",
+            "time_spent": 34
+          },
+          {
+            "created": "2023-09-05 16:46:50",
+            "time_spent": 21
+          }
+        ],
+        "Total_sum": 55,
+        "Total_sum_with_hours": "00:55",
+        "Role": "СТП 1 линия",
+        "Customer": "Брафиттинг / Brafitting"
+      },
+      "Андрей Дакалов": {
+        "Time_spent": [
+          {
+            "created": "2023-09-05 16:27:48",
+            "time_spent": 43
+          }
+        ],
+        "Total_sum": 43,
+        "Total_sum_with_hours": "00:43",
+        "Role": "Внедрение",
+        "Customer": "Брафиттинг / Brafitting"
+      }
+    },
+    "10735055": {
+      "Инна Пильщикова": {
+        "Time_spent": [
+          {
+            "created": "2023-08-27 22:52:06",
+            "time_spent": 30
+          },
+          {
+            "created": "2023-09-04 11:13:39",
+            "time_spent": 9
+          }
+        ],
+        "Total_sum": 39,
+        "Total_sum_with_hours": "00:39",
+        "Role": "Внедрение",
+        "Customer": "Святой Михаил"
+      },
+      "Василий Матрюк": {
+        "Time_spent": [
+          {
+            "created": "2023-08-14 09:45:09",
+            "time_spent": 9
+          },
+          {
+            "created": "2023-08-07 10:14:09",
+            "time_spent": 16
+          },
+          {
+            "created": "2023-09-13 09:48:05",
+            "time_spent": 13
+          }
+        ],
+        "Total_sum": 38,
+        "Total_sum_with_hours": "00:38",
+        "Role": "СТП 2 линия",
+        "Customer": "Святой Михаил"
+      }
+    },
+    "12416725": {
+      "Андрей Дакалов": {
+        "Time_spent": [
+          {
+            "created": "2023-09-18 13:17:47",
+            "time_spent": 20
+          },
+          {
+            "created": "2023-09-18 12:41:13",
+            "time_spent": 2
+          },
+          {
+            "created": "2023-07-31 17:01:53",
+            "time_spent": 82
+          },
+          {
+            "created": "2023-09-19 16:54:24",
+            "time_spent": 67
+          },
+          {
+            "created": "2023-09-19 17:02:34",
+            "time_spent": 4
+          },
+          {
+            "created": "2023-09-19 17:24:43",
+            "time_spent": 15
+          },
+          {
+            "created": "2023-09-15 20:00:21",
+            "time_spent": 38
+          }
+        ],
+        "Total_sum": 228,
+        "Total_sum_with_hours": "03:48",
+        "Role": "Внедрение",
+        "Customer": "Сортмет"
+      },
+      "Михаил Лаптов": {
+        "Time_spent": [
+          {
+            "created": "2023-09-19 15:40:00",
+            "time_spent": 199
+          },
+          {
+            "created": "2023-09-19 18:19:03",
+            "time_spent": 19
+          }
+        ],
+        "Total_sum": 218,
+        "Total_sum_with_hours": "03:38",
+        "Role": "Менеджер проектов",
+        "Customer": "Сортмет"
+      }
+    },
+    "11221969": {
+      "Роман Балуков": {
+        "Time_spent": [
+          {
+            "created": "2023-08-31 12:06:55",
+            "time_spent": 15
+          },
+          {
+            "created": "2023-08-25 14:21:04",
+            "time_spent": 21
+          },
+          {
+            "created": "2023-08-28 14:17:31",
+            "time_spent": 17
+          },
+          {
+            "created": "2023-08-03 19:01:56",
+            "time_spent": 7
+          },
+          {
+            "created": "2023-07-25 10:53:08",
+            "time_spent": 8
+          },
+          {
+            "created": "2023-08-24 17:20:49",
+            "time_spent": 11
+          },
+          {
+            "created": "2023-09-19 13:32:19",
+            "time_spent": 15
+          },
+          {
+            "created": "2023-09-19 16:19:37",
+            "time_spent": 7
+          },
+          {
+            "created": "2023-09-13 17:57:38",
+            "time_spent": 23
+          },
+          {
+            "created": "2023-09-15 17:26:04",
+            "time_spent": 10
+          }
+        ],
+        "Total_sum": 134,
+        "Total_sum_with_hours": "02:14",
+        "Role": "СТП 1 линия",
+        "Customer": "Синергия"
+      }
+    },
+    "20097362": {
+      "Роман Балуков": {
+        "Time_spent": [
+          {
+            "created": "2023-09-19 16:11:10",
+            "time_spent": 16
+          }
+        ],
+        "Total_sum": 16,
+        "Total_sum_with_hours": "00:16",
+        "Role": "Менеджер проектов",
+        "Customer": "DVA group/Два Групп"
+      }
+    },
+    "19861385": {
+      "Мария Никифорова": {
+        "Time_spent": [
+          {
+            "created": "2023-09-18 13:17:05",
+            "time_spent": 16
+          }
+        ],
+        "Total_sum": 16,
+        "Total_sum_with_hours": "00:16",
+        "Role": "Младший аналитик",
+        "Customer": "Святой Михаил"
+      },
+      "Андрей Дакалов": {
+        "Time_spent": [
+          {
+            "created": "2023-09-18 12:57:57",
+            "time_spent": 16
+          },
+          {
+            "created": "2023-09-19 13:30:01",
+            "time_spent": 3
+          }
+        ],
+        "Total_sum": 19,
+        "Total_sum_with_hours": "00:19",
+        "Role": "Внедрение",
+        "Customer": "Святой Михаил"
       }
     },
     "11338950": {
@@ -3032,6 +3346,10 @@
             "time_spent": 41
           },
           {
+            "created": "2023-09-18 13:50:09",
+            "time_spent": 26
+          },
+          {
             "created": "2023-09-04 11:07:27",
             "time_spent": 24
           },
@@ -3064,6 +3382,10 @@
             "time_spent": 15
           },
           {
+            "created": "2023-09-18 12:40:34",
+            "time_spent": 3
+          },
+          {
             "created": "2023-08-11 16:43:58",
             "time_spent": 59
           },
@@ -3089,6 +3411,10 @@
           },
           {
             "created": "2023-09-06 15:21:05",
+            "time_spent": 10
+          },
+          {
+            "created": "2023-09-19 10:32:16",
             "time_spent": 10
           },
           {
@@ -3124,199 +3450,475 @@
             "time_spent": 41
           }
         ],
-        "Total_sum": 1508,
-        "Total_sum_with_hours": "25:08",
+        "Total_sum": 1547,
+        "Total_sum_with_hours": "25:47",
         "Role": "Менеджер проектов",
         "Customer": "TNF / Bernstein / ТНФ / Бернштейн"
       }
     },
-    "18981163": {
-      "Мария Никифорова": {
+    "10965374": {
+      "Андрей Дакалов": {
         "Time_spent": [
           {
-            "created": "2023-09-12 13:48:48",
-            "time_spent": 6
+            "created": "2023-06-16 14:57:30",
+            "time_spent": 33
           },
           {
-            "created": "2023-09-12 15:28:37",
-            "time_spent": 2
+            "created": "2023-06-16 15:21:45",
+            "time_spent": 5
           },
           {
-            "created": "2023-09-13 10:28:40",
+            "created": "2023-06-16 18:00:24",
+            "time_spent": 120
+          },
+          {
+            "created": "2023-08-22 10:25:08",
+            "time_spent": 32
+          },
+          {
+            "created": "2023-09-19 09:56:04",
+            "time_spent": 1
+          }
+        ],
+        "Total_sum": 191,
+        "Total_sum_with_hours": "03:11",
+        "Role": "Внедрение",
+        "Customer": "Святой Михаил"
+      }
+    },
+    "18908729": {
+      "Роман Балуков": {
+        "Time_spent": [
+          {
+            "created": "2023-09-11 18:11:08",
             "time_spent": 21
           }
         ],
-        "Total_sum": 29,
-        "Total_sum_with_hours": "00:29",
-        "Role": "Младший аналитик",
-        "Customer": "Web-Regata/Веб-регата"
+        "Total_sum": 21,
+        "Total_sum_with_hours": "00:21",
+        "Role": "Менеджер проектов",
+        "Customer": "Прометей"
       },
       "Андрей Дакалов": {
         "Time_spent": [
           {
-            "created": "2023-09-12 16:38:34",
-            "time_spent": 52
+            "created": "2023-09-14 15:51:41",
+            "time_spent": 35
+          }
+        ],
+        "Total_sum": 35,
+        "Total_sum_with_hours": "00:35",
+        "Role": "Внедрение",
+        "Customer": "Прометей"
+      }
+    },
+    "19937380": {
+      "Роман Балуков": {
+        "Time_spent": [
+          {
+            "created": "2023-09-18 17:34:57",
+            "time_spent": 32
+          }
+        ],
+        "Total_sum": 32,
+        "Total_sum_with_hours": "00:32",
+        "Role": "Менеджер проектов",
+        "Customer": "DVA group/Два Групп"
+      }
+    },
+    "11294812": {
+      "Роман Балуков": {
+        "Time_spent": [
+          {
+            "created": "2023-07-03 11:27:24",
+            "time_spent": 28
           },
           {
-            "created": "2023-09-12 16:59:36",
-            "time_spent": 73
+            "created": "2023-07-19 14:55:24",
+            "time_spent": 25
           },
           {
-            "created": "2023-09-13 10:29:37",
-            "time_spent": 5
+            "created": "2023-06-29 13:53:22",
+            "time_spent": 40
           },
           {
-            "created": "2023-09-13 12:00:30",
+            "created": "2023-06-29 15:37:06",
+            "time_spent": 8
+          },
+          {
+            "created": "2023-07-26 19:00:34",
             "time_spent": 20
           }
         ],
-        "Total_sum": 150,
-        "Total_sum_with_hours": "02:30",
-        "Role": "Внедрение",
-        "Customer": "Web-Regata/Веб-регата"
+        "Total_sum": 121,
+        "Total_sum_with_hours": "02:01",
+        "Role": "Менеджер проектов",
+        "Customer": "ГК Ньютон | Newton"
       }
     },
-    "18915404": {
-      "Андрей Дакалов": {
+    "12751483": {
+      "Мария Никифорова": {
         "Time_spent": [
           {
-            "created": "2023-09-12 10:07:46",
+            "created": "2023-07-28 12:36:56",
+            "time_spent": 92
+          },
+          {
+            "created": "2023-07-28 10:30:34",
+            "time_spent": 29
+          }
+        ],
+        "Total_sum": 121,
+        "Total_sum_with_hours": "02:01",
+        "Role": "Младший аналитик",
+        "Customer": "ГК Ньютон | Newton"
+      },
+      "Роман Балуков": {
+        "Time_spent": [
+          {
+            "created": "2023-07-28 12:56:40",
+            "time_spent": 154
+          }
+        ],
+        "Total_sum": 154,
+        "Total_sum_with_hours": "02:34",
+        "Role": "Менеджер проектов",
+        "Customer": "ГК Ньютон | Newton"
+      }
+    },
+    "12084817": {
+      "Роман Балуков": {
+        "Time_spent": [
+          {
+            "created": "2023-07-18 10:40:20",
+            "time_spent": 14
+          }
+        ],
+        "Total_sum": 14,
+        "Total_sum_with_hours": "00:14",
+        "Role": "Менеджер проектов",
+        "Customer": "ГК Ньютон | Newton"
+      }
+    },
+    "11470639": {
+      "Роман Балуков": {
+        "Time_spent": [
+          {
+            "created": "2023-07-10 11:20:53",
             "time_spent": 12
           }
         ],
         "Total_sum": 12,
         "Total_sum_with_hours": "00:12",
-        "Role": "Внедрение",
-        "Customer": "Брафиттинг / Brafitting"
-      }
-    },
-    "10735055": {
-      "Инна Пильщикова": {
-        "Time_spent": [
-          {
-            "created": "2023-08-27 22:52:06",
-            "time_spent": 30
-          },
-          {
-            "created": "2023-09-04 11:13:39",
-            "time_spent": 9
-          }
-        ],
-        "Total_sum": 39,
-        "Total_sum_with_hours": "00:39",
-        "Role": "Внедрение",
-        "Customer": "Святой Михаил"
-      },
-      "Василий Матрюк": {
-        "Time_spent": [
-          {
-            "created": "2023-08-14 09:45:09",
-            "time_spent": 9
-          },
-          {
-            "created": "2023-08-07 10:14:09",
-            "time_spent": 16
-          },
-          {
-            "created": "2023-09-13 09:48:05",
-            "time_spent": 13
-          }
-        ],
-        "Total_sum": 38,
-        "Total_sum_with_hours": "00:38",
-        "Role": "СТП 2 линия",
-        "Customer": "Святой Михаил"
-      }
-    },
-    "18450344": {
-      "Андрей Дакалов": {
-        "Time_spent": [
-          {
-            "created": "2023-09-05 13:03:44",
-            "time_spent": 1
-          },
-          {
-            "created": "2023-09-05 13:47:00",
-            "time_spent": 20
-          },
-          {
-            "created": "2023-09-06 16:49:06",
-            "time_spent": 19
-          }
-        ],
-        "Total_sum": 40,
-        "Total_sum_with_hours": "00:40",
-        "Role": "Внедрение",
+        "Role": "Менеджер проектов",
         "Customer": "Web-Regata/Веб-регата"
       }
     },
-    "18568716": {
-      "Андрей Дакалов": {
+    "18976846": {
+      "Михаил Лаптов": {
         "Time_spent": [
           {
-            "created": "2023-09-06 11:49:12",
-            "time_spent": 1
+            "created": "2023-09-18 16:26:45",
+            "time_spent": 85
           },
           {
-            "created": "2023-09-06 13:40:33",
-            "time_spent": 74
+            "created": "2023-09-12 13:17:36",
+            "time_spent": 20
+          },
+          {
+            "created": "2023-09-12 15:04:35",
+            "time_spent": 23
+          },
+          {
+            "created": "2023-09-14 17:43:57",
+            "time_spent": 108
           }
         ],
-        "Total_sum": 75,
-        "Total_sum_with_hours": "01:15",
-        "Role": "Внедрение",
-        "Customer": "TNF / Bernstein / ТНФ / Бернштейн"
+        "Total_sum": 236,
+        "Total_sum_with_hours": "03:56",
+        "Role": "Менеджер проектов",
+        "Customer": "DVA group/Два Групп"
       },
+      "Роман Балуков": {
+        "Time_spent": [
+          {
+            "created": "2023-09-14 16:41:05",
+            "time_spent": 41
+          },
+          {
+            "created": "2023-09-14 17:45:09",
+            "time_spent": 44
+          }
+        ],
+        "Total_sum": 85,
+        "Total_sum_with_hours": "01:25",
+        "Role": "Менеджер проектов",
+        "Customer": "DVA group/Два Групп"
+      }
+    },
+    "18374831": {
       "Мария Никифорова": {
         "Time_spent": [
           {
-            "created": "2023-09-06 13:29:14",
+            "created": "2023-09-07 18:02:57",
             "time_spent": 29
           },
           {
-            "created": "2023-09-06 14:16:37",
-            "time_spent": 22
+            "created": "2023-09-12 10:38:36",
+            "time_spent": 4
+          }
+        ],
+        "Total_sum": 33,
+        "Total_sum_with_hours": "00:33",
+        "Role": "Младший аналитик",
+        "Customer": "Административные решения/Админка"
+      }
+    },
+    "19190394": {
+      "Мария Никифорова": {
+        "Time_spent": [
+          {
+            "created": "2023-09-13 16:03:30",
+            "time_spent": 37
           },
           {
-            "created": "2023-09-12 10:47:24",
-            "time_spent": 9
+            "created": "2023-09-13 15:07:03",
+            "time_spent": 23
           }
         ],
         "Total_sum": 60,
         "Total_sum_with_hours": "01:00",
         "Role": "Младший аналитик",
         "Customer": "TNF / Bernstein / ТНФ / Бернштейн"
-      }
-    },
-    "18955508": {
+      },
       "Андрей Дакалов": {
         "Time_spent": [
           {
-            "created": "2023-09-12 13:16:32",
-            "time_spent": 14
+            "created": "2023-09-13 16:02:25",
+            "time_spent": 36
+          },
+          {
+            "created": "2023-09-13 16:27:06",
+            "time_spent": 5
+          },
+          {
+            "created": "2023-09-13 16:31:56",
+            "time_spent": 4
           }
         ],
-        "Total_sum": 14,
-        "Total_sum_with_hours": "00:14",
+        "Total_sum": 45,
+        "Total_sum_with_hours": "00:45",
         "Role": "Внедрение",
         "Customer": "TNF / Bernstein / ТНФ / Бернштейн"
       }
     },
-    "15690093": {
+    "18202132": {
+      "Мария Никифорова": {
+        "Time_spent": [
+          {
+            "created": "2023-09-04 15:54:43",
+            "time_spent": 47
+          },
+          {
+            "created": "2023-09-04 17:39:55",
+            "time_spent": 31
+          },
+          {
+            "created": "2023-09-04 18:49:22",
+            "time_spent": 53
+          },
+          {
+            "created": "2023-09-05 14:27:20",
+            "time_spent": 32
+          },
+          {
+            "created": "2023-09-05 15:11:43",
+            "time_spent": 44
+          },
+          {
+            "created": "2023-09-05 16:22:28",
+            "time_spent": 27
+          }
+        ],
+        "Total_sum": 234,
+        "Total_sum_with_hours": "03:54",
+        "Role": "Младший аналитик",
+        "Customer": "TNF / Bernstein / ТНФ / Бернштейн"
+      }
+    },
+    "19486279": {
+      "Мария Никифорова": {
+        "Time_spent": [
+          {
+            "created": "2023-09-15 16:09:14",
+            "time_spent": 54
+          }
+        ],
+        "Total_sum": 54,
+        "Total_sum_with_hours": "00:54",
+        "Role": "Младший аналитик",
+        "Customer": "TNF / Bernstein / ТНФ / Бернштейн"
+      },
       "Андрей Дакалов": {
         "Time_spent": [
           {
-            "created": "2023-08-16 10:19:53",
-            "time_spent": 15
-          },
-          {
-            "created": "2023-08-16 11:11:35",
-            "time_spent": 24
+            "created": "2023-09-15 16:07:24",
+            "time_spent": 55
           }
         ],
-        "Total_sum": 39,
-        "Total_sum_with_hours": "00:39",
+        "Total_sum": 55,
+        "Total_sum_with_hours": "00:55",
         "Role": "Внедрение",
+        "Customer": "TNF / Bernstein / ТНФ / Бернштейн"
+      }
+    },
+    "17926839": {
+      "Андрей Дакалов": {
+        "Time_spent": [
+          {
+            "created": "2023-08-30 13:42:55",
+            "time_spent": 27
+          },
+          {
+            "created": "2023-09-04 14:04:47",
+            "time_spent": 5
+          }
+        ],
+        "Total_sum": 32,
+        "Total_sum_with_hours": "00:32",
+        "Role": "Внедрение",
+        "Customer": "Святой Михаил"
+      },
+      "Мария Никифорова": {
+        "Time_spent": [
+          {
+            "created": "2023-09-18 16:09:37",
+            "time_spent": 47
+          }
+        ],
+        "Total_sum": 47,
+        "Total_sum_with_hours": "00:47",
+        "Role": "Младший аналитик",
+        "Customer": "Святой Михаил"
+      }
+    },
+    "18207065": {
+      "Инна Пильщикова": {
+        "Time_spent": [
+          {
+            "created": "2023-09-01 15:01:32",
+            "time_spent": 45
+          }
+        ],
+        "Total_sum": 45,
+        "Total_sum_with_hours": "00:45",
+        "Role": "СТП 1 линия",
+        "Customer": "Святой Михаил"
+      },
+      "Василий Матрюк": {
+        "Time_spent": [
+          {
+            "created": "2023-09-01 13:43:46",
+            "time_spent": 34
+          }
+        ],
+        "Total_sum": 34,
+        "Total_sum_with_hours": "00:34",
+        "Role": "СТП 1 линия",
+        "Customer": "Святой Михаил"
+      }
+    },
+    "11098988": {
+      "Андрей Дакалов": {
+        "Time_spent": [
+          {
+            "created": "2023-06-20 09:42:00",
+            "time_spent": 6
+          }
+        ],
+        "Total_sum": 6,
+        "Total_sum_with_hours": "00:06",
+        "Role": "Внедрение",
+        "Customer": "Добавь проект"
+      }
+    },
+    "17002628": {
+      "Мария Никифорова": {
+        "Time_spent": [
+          {
+            "created": "2023-08-24 12:14:40",
+            "time_spent": 20
+          },
+          {
+            "created": "2023-08-24 11:33:22",
+            "time_spent": 33
+          },
+          {
+            "created": "2023-08-25 16:50:38",
+            "time_spent": 21
+          },
+          {
+            "created": "2023-08-24 10:09:48",
+            "time_spent": 31
+          },
+          {
+            "created": "2023-08-23 11:52:36",
+            "time_spent": 12
+          },
+          {
+            "created": "2023-08-23 12:56:09",
+            "time_spent": 8
+          },
+          {
+            "created": "2023-08-24 15:42:10",
+            "time_spent": 6
+          },
+          {
+            "created": "2023-08-24 17:07:02",
+            "time_spent": 17
+          },
+          {
+            "created": "2023-08-24 17:24:44",
+            "time_spent": 20
+          }
+        ],
+        "Total_sum": 168,
+        "Total_sum_with_hours": "02:48",
+        "Role": "Младший аналитик",
+        "Customer": "TNF / Bernstein / ТНФ / Бернштейн"
+      },
+      "Андрей Дакалов": {
+        "Time_spent": [
+          {
+            "created": "2023-08-24 11:32:57",
+            "time_spent": 30
+          },
+          {
+            "created": "2023-08-24 15:37:35",
+            "time_spent": 13
+          },
+          {
+            "created": "2023-08-24 17:35:53",
+            "time_spent": 49
+          }
+        ],
+        "Total_sum": 92,
+        "Total_sum_with_hours": "01:32",
+        "Role": "Внедрение",
+        "Customer": "TNF / Bernstein / ТНФ / Бернштейн"
+      }
+    },
+    "17162568": {
+      "Мария Никифорова": {
+        "Time_spent": [
+          {
+            "created": "2023-08-25 10:25:37",
+            "time_spent": 19
+          }
+        ],
+        "Total_sum": 19,
+        "Total_sum_with_hours": "00:19",
+        "Role": "Менеджер проектов",
         "Customer": "TNF / Bernstein / ТНФ / Бернштейн"
       }
     },
@@ -3398,629 +4000,273 @@
         "Customer": "МСК-ДОН"
       }
     },
-    "17579845": {
-      "Мария Никифорова": {
-        "Time_spent": [
-          {
-            "created": "2023-08-29 12:12:07",
-            "time_spent": 7
-          },
-          {
-            "created": "2023-08-29 12:56:27",
-            "time_spent": 14
-          }
-        ],
-        "Total_sum": 21,
-        "Total_sum_with_hours": "00:21",
-        "Role": "Младший аналитик",
-        "Customer": "TNF / Bernstein / ТНФ / Бернштейн"
-      },
+    "12925312": {
       "Андрей Дакалов": {
         "Time_spent": [
           {
-            "created": "2023-08-29 13:23:04",
-            "time_spent": 18
-          }
-        ],
-        "Total_sum": 18,
-        "Total_sum_with_hours": "00:18",
-        "Role": "Внедрение",
-        "Customer": "TNF / Bernstein / ТНФ / Бернштейн"
-      }
-    },
-    "18098922": {
-      "Мария Никифорова": {
-        "Time_spent": [
-          {
-            "created": "2023-09-01 15:47:31",
-            "time_spent": 37
-          },
-          {
-            "created": "2023-09-01 10:17:59",
-            "time_spent": 28
-          },
-          {
-            "created": "2023-09-01 12:23:20",
-            "time_spent": 18
-          },
-          {
-            "created": "2023-09-05 17:22:44",
-            "time_spent": 48
-          },
-          {
-            "created": "2023-09-06 15:59:40",
-            "time_spent": 39
-          },
-          {
-            "created": "2023-09-06 16:46:38",
-            "time_spent": 39
-          },
-          {
-            "created": "2023-09-07 13:17:45",
-            "time_spent": 104
-          }
-        ],
-        "Total_sum": 313,
-        "Total_sum_with_hours": "05:13",
-        "Role": "Младший аналитик",
-        "Customer": "TNF / Bernstein / ТНФ / Бернштейн"
-      },
-      "Андрей Дакалов": {
-        "Time_spent": [
-          {
-            "created": "2023-09-01 12:55:28",
-            "time_spent": 43
-          },
-          {
-            "created": "2023-09-01 13:52:51",
-            "time_spent": 1
-          },
-          {
-            "created": "2023-09-05 17:22:13",
-            "time_spent": 41
-          },
-          {
-            "created": "2023-09-06 15:58:06",
-            "time_spent": 35
-          },
-          {
-            "created": "2023-09-06 16:29:59",
-            "time_spent": 3
-          }
-        ],
-        "Total_sum": 123,
-        "Total_sum_with_hours": "02:03",
-        "Role": "Внедрение",
-        "Customer": "TNF / Bernstein / ТНФ / Бернштейн"
-      }
-    },
-    "18359950": {
-      "Мария Никифорова": {
-        "Time_spent": [
-          {
-            "created": "2023-09-04 12:20:41",
-            "time_spent": 20
-          },
-          {
-            "created": "2023-09-04 13:25:29",
-            "time_spent": 8
-          },
-          {
-            "created": "2023-09-04 14:31:57",
-            "time_spent": 24
-          },
-          {
-            "created": "2023-09-04 15:07:21",
-            "time_spent": 6
-          }
-        ],
-        "Total_sum": 58,
-        "Total_sum_with_hours": "00:58",
-        "Role": "Младший аналитик",
-        "Customer": "TNF / Bernstein / ТНФ / Бернштейн"
-      },
-      "Андрей Дакалов": {
-        "Time_spent": [
-          {
-            "created": "2023-09-04 13:02:04",
-            "time_spent": 11
-          },
-          {
-            "created": "2023-09-04 14:16:12",
-            "time_spent": 11
-          }
-        ],
-        "Total_sum": 22,
-        "Total_sum_with_hours": "00:22",
-        "Role": "Внедрение",
-        "Customer": "TNF / Bernstein / ТНФ / Бернштейн"
-      }
-    },
-    "18446370": {
-      "Мария Никифорова": {
-        "Time_spent": [
-          {
-            "created": "2023-09-05 12:24:33",
-            "time_spent": 9
-          }
-        ],
-        "Total_sum": 9,
-        "Total_sum_with_hours": "00:09",
-        "Role": "Младший аналитик",
-        "Customer": "TNF / Bernstein / ТНФ / Бернштейн"
-      },
-      "Андрей Дакалов": {
-        "Time_spent": [
-          {
-            "created": "2023-09-05 13:12:15",
-            "time_spent": 8
-          }
-        ],
-        "Total_sum": 8,
-        "Total_sum_with_hours": "00:08",
-        "Role": "Внедрение",
-        "Customer": "TNF / Bernstein / ТНФ / Бернштейн"
-      }
-    },
-    "18569845": {
-      "Андрей Дакалов": {
-        "Time_spent": [
-          {
-            "created": "2023-09-06 11:30:07",
-            "time_spent": 44
-          },
-          {
-            "created": "2023-09-06 12:26:31",
-            "time_spent": 37
-          }
-        ],
-        "Total_sum": 81,
-        "Total_sum_with_hours": "01:21",
-        "Role": "Внедрение",
-        "Customer": "TNF / Bernstein / ТНФ / Бернштейн"
-      }
-    },
-    "13916603": {
-      "Андрей Дакалов": {
-        "Time_spent": [
-          {
-            "created": "2023-08-11 13:26:10",
-            "time_spent": 59
-          },
-          {
-            "created": "2023-08-11 15:15:29",
+            "created": "2023-08-16 09:24:47",
             "time_spent": 16
           },
           {
-            "created": "2023-08-11 15:48:28",
-            "time_spent": 18
+            "created": "2023-07-31 12:45:34",
+            "time_spent": 70
           },
           {
-            "created": "2023-08-14 16:49:35",
+            "created": "2023-08-02 10:03:05",
             "time_spent": 11
-          }
-        ],
-        "Total_sum": 104,
-        "Total_sum_with_hours": "01:44",
-        "Role": "Внедрение",
-        "Customer": "Nedvix/Недвикс"
-      }
-    },
-    "15191116": {
-      "Андрей Дакалов": {
-        "Time_spent": [
-          {
-            "created": "2023-08-16 09:02:07",
-            "time_spent": 1
           },
           {
-            "created": "2023-08-16 09:08:23",
-            "time_spent": 6
+            "created": "2023-07-31 13:06:22",
+            "time_spent": 91
           },
           {
-            "created": "2023-08-16 09:34:07",
-            "time_spent": 9
+            "created": "2023-08-14 13:54:43",
+            "time_spent": 5
           },
           {
-            "created": "2023-08-14 15:48:26",
-            "time_spent": 69
-          },
-          {
-            "created": "2023-08-16 14:59:32",
+            "created": "2023-08-14 14:04:35",
             "time_spent": 15
           },
           {
-            "created": "2023-08-16 15:31:32",
-            "time_spent": 7
+            "created": "2023-08-14 14:19:13",
+            "time_spent": 15
+          },
+          {
+            "created": "2023-08-01 14:14:26",
+            "time_spent": 64
+          },
+          {
+            "created": "2023-08-01 15:29:49",
+            "time_spent": 15
+          },
+          {
+            "created": "2023-08-01 16:22:17",
+            "time_spent": 24
           }
         ],
-        "Total_sum": 107,
-        "Total_sum_with_hours": "01:47",
+        "Total_sum": 326,
+        "Total_sum_with_hours": "05:26",
         "Role": "Тестирование",
         "Customer": "МСК-ДОН"
       },
       "Михаил Лаптов": {
         "Time_spent": [
           {
-            "created": "2023-08-16 14:49:25",
-            "time_spent": 53
-          },
-          {
-            "created": "2023-08-16 15:52:02",
-            "time_spent": 62
+            "created": "2023-08-16 13:56:29",
+            "time_spent": 36
           }
         ],
-        "Total_sum": 115,
-        "Total_sum_with_hours": "01:55",
+        "Total_sum": 36,
+        "Total_sum_with_hours": "00:36",
         "Role": "Менеджер проектов",
         "Customer": "МСК-ДОН"
       }
     },
-    "18577988": {
-      "Инна Пильщикова": {
-        "Time_spent": [
-          {
-            "created": "2023-09-06 13:18:44",
-            "time_spent": 57
-          },
-          {
-            "created": "2023-09-06 19:01:18",
-            "time_spent": 124
-          }
-        ],
-        "Total_sum": 181,
-        "Total_sum_with_hours": "03:01",
-        "Role": "СТП 1 линия",
-        "Customer": "Artsofte Digital/Артсофте"
-      }
-    },
-    "18374831": {
-      "Мария Никифорова": {
-        "Time_spent": [
-          {
-            "created": "2023-09-07 18:02:57",
-            "time_spent": 29
-          },
-          {
-            "created": "2023-09-12 10:38:36",
-            "time_spent": 4
-          }
-        ],
-        "Total_sum": 33,
-        "Total_sum_with_hours": "00:33",
-        "Role": "Младший аналитик",
-        "Customer": "Административные решения/Админка"
-      }
-    },
-    "18908828": {
+    "19509984": {
       "Андрей Дакалов": {
         "Time_spent": [
           {
-            "created": "2023-09-12 09:50:49",
-            "time_spent": 15
-          }
-        ],
-        "Total_sum": 15,
-        "Total_sum_with_hours": "00:15",
-        "Role": "Внедрение",
-        "Customer": "Web-Regata/Веб-регата"
-      }
-    },
-    "18455845": {
-      "Андрей Дакалов": {
-        "Time_spent": [
-          {
-            "created": "2023-09-05 12:54:03",
-            "time_spent": 7
-          }
-        ],
-        "Total_sum": 7,
-        "Total_sum_with_hours": "00:07",
-        "Role": "Внедрение",
-        "Customer": "Административные решения/Админка"
-      }
-    },
-    "18882031": {
-      "Роман Балуков": {
-        "Time_spent": [
-          {
-            "created": "2023-09-11 13:36:09",
-            "time_spent": 16
-          },
-          {
-            "created": "2023-09-11 16:40:39",
-            "time_spent": 62
-          }
-        ],
-        "Total_sum": 78,
-        "Total_sum_with_hours": "01:18",
-        "Role": "Менеджер проектов",
-        "Customer": "Прометей"
-      }
-    },
-    "17587364": {
-      "Мария Никифорова": {
-        "Time_spent": [
-          {
-            "created": "2023-08-28 12:10:45",
-            "time_spent": 11
-          },
-          {
-            "created": "2023-08-28 16:05:25",
-            "time_spent": 4
-          }
-        ],
-        "Total_sum": 15,
-        "Total_sum_with_hours": "00:15",
-        "Role": "Менеджер проектов",
-        "Customer": "TNF / Bernstein / ТНФ / Бернштейн"
-      }
-    },
-    "10708756": {
-      "Инна Пильщикова": {
-        "Time_spent": [
-          {
-            "created": "2023-09-04 11:19:17",
+            "created": "2023-09-15 15:12:33",
             "time_spent": 2
           }
         ],
         "Total_sum": 2,
         "Total_sum_with_hours": "00:02",
-        "Role": "СТП 1 линия",
-        "Customer": "Sense/Сенсе"
+        "Role": "Внедрение",
+        "Customer": "Святой Михаил"
       }
     },
-    "17778144": {
-      "Андрей Дакалов": {
-        "Time_spent": [
-          {
-            "created": "2023-09-04 13:31:24",
-            "time_spent": 17
-          },
-          {
-            "created": "2023-09-04 13:57:10",
-            "time_spent": 23
-          },
-          {
-            "created": "2023-08-30 09:55:32",
-            "time_spent": 36
-          },
-          {
-            "created": "2023-09-05 10:01:22",
-            "time_spent": 18
-          },
-          {
-            "created": "2023-09-05 10:48:38",
-            "time_spent": 25
-          },
-          {
-            "created": "2023-09-06 15:18:58",
-            "time_spent": 13
-          },
-          {
-            "created": "2023-09-08 14:49:52",
-            "time_spent": 49
-          },
-          {
-            "created": "2023-09-11 15:17:47",
-            "time_spent": 39
-          }
-        ],
-        "Total_sum": 220,
-        "Total_sum_with_hours": "03:40",
-        "Role": "Внедрение",
-        "Customer": "Web-Regata/Веб-регата"
-      }
-    },
-    "16338461": {
-      "Андрей Дакалов": {
-        "Time_spent": [
-          {
-            "created": "2023-08-18 14:57:16",
-            "time_spent": 41
-          },
-          {
-            "created": "2023-08-18 15:31:47",
-            "time_spent": 17
-          },
-          {
-            "created": "2023-08-18 16:59:07",
-            "time_spent": 36
-          },
-          {
-            "created": "2023-08-29 10:06:34",
-            "time_spent": 28
-          },
-          {
-            "created": "2023-09-04 11:01:39",
-            "time_spent": 74
-          },
-          {
-            "created": "2023-09-04 12:50:48",
-            "time_spent": 73
-          },
-          {
-            "created": "2023-09-04 13:13:55",
-            "time_spent": 12
-          },
-          {
-            "created": "2023-08-29 12:46:43",
-            "time_spent": 21
-          },
-          {
-            "created": "2023-08-18 12:33:21",
-            "time_spent": 65
-          },
-          {
-            "created": "2023-08-18 13:11:25",
-            "time_spent": 23
-          },
-          {
-            "created": "2023-08-29 14:45:56",
-            "time_spent": 83
-          },
-          {
-            "created": "2023-08-18 14:11:21",
-            "time_spent": 53
-          },
-          {
-            "created": "2023-09-07 15:27:46",
-            "time_spent": 4
-          },
-          {
-            "created": "2023-09-08 10:06:58",
-            "time_spent": 25
-          },
-          {
-            "created": "2023-09-11 13:27:16",
-            "time_spent": 99
-          },
-          {
-            "created": "2023-09-11 14:06:11",
-            "time_spent": 29
-          }
-        ],
-        "Total_sum": 683,
-        "Total_sum_with_hours": "11:23",
-        "Role": "Внедрение",
-        "Customer": "Web-Regata/Веб-регата"
-      },
+    "15956474": {
       "Мария Никифорова": {
         "Time_spent": [
           {
-            "created": "2023-08-18 11:49:26",
-            "time_spent": 21
-          }
-        ],
-        "Total_sum": 21,
-        "Total_sum_with_hours": "00:21",
-        "Role": "Младший аналитик",
-        "Customer": "Web-Regata/Веб-регата"
-      }
-    },
-    "13691156": {
-      "Мария Никифорова": {
-        "Time_spent": [
-          {
-            "created": "2023-08-10 10:53:15",
-            "time_spent": 28
+            "created": "2023-08-16 17:09:16",
+            "time_spent": 75
           },
           {
-            "created": "2023-08-10 12:03:58",
-            "time_spent": 43
-          },
-          {
-            "created": "2023-08-10 13:38:52",
-            "time_spent": 90
-          },
-          {
-            "created": "2023-08-10 13:52:09",
-            "time_spent": 15
-          },
-          {
-            "created": "2023-08-10 14:47:49",
-            "time_spent": 53
-          },
-          {
-            "created": "2023-08-17 15:50:56",
-            "time_spent": 32
-          },
-          {
-            "created": "2023-08-14 13:39:36",
-            "time_spent": 40
-          },
-          {
-            "created": "2023-08-14 14:26:55",
+            "created": "2023-08-23 10:18:01",
             "time_spent": 22
           },
           {
-            "created": "2023-08-18 13:01:40",
+            "created": "2023-08-16 18:03:05",
+            "time_spent": 53
+          },
+          {
+            "created": "2023-08-29 12:25:32",
+            "time_spent": 5
+          },
+          {
+            "created": "2023-08-21 14:07:10",
+            "time_spent": 7
+          },
+          {
+            "created": "2023-08-17 10:49:10",
+            "time_spent": 10
+          }
+        ],
+        "Total_sum": 172,
+        "Total_sum_with_hours": "02:52",
+        "Role": "Младший аналитик",
+        "Customer": "Святой Михаил"
+      }
+    },
+    "11528483": {
+      "Мария Никифорова": {
+        "Time_spent": [
+          {
+            "created": "2023-08-08 15:48:25",
+            "time_spent": 54
+          },
+          {
+            "created": "2023-08-08 17:54:08",
+            "time_spent": 69
+          },
+          {
+            "created": "2023-08-08 18:18:25",
+            "time_spent": 6
+          }
+        ],
+        "Total_sum": 129,
+        "Total_sum_with_hours": "02:09",
+        "Role": "Младший аналитик",
+        "Customer": "Святой Михаил"
+      }
+    },
+    "19192029": {
+      "Михаил Лаптов": {
+        "Time_spent": [
+          {
+            "created": "2023-09-18 11:05:55",
             "time_spent": 29
           },
           {
-            "created": "2023-08-17 16:37:10",
-            "time_spent": 46
+            "created": "2023-09-13 15:50:43",
+            "time_spent": 49
           },
           {
-            "created": "2023-08-10 18:47:11",
-            "time_spent": 63
-          },
-          {
-            "created": "2023-08-17 17:52:43",
-            "time_spent": 61
-          },
-          {
-            "created": "2023-08-14 16:41:41",
-            "time_spent": 92
-          },
-          {
-            "created": "2023-08-18 14:10:42",
-            "time_spent": 65
-          },
-          {
-            "created": "2023-09-05 16:40:34",
-            "time_spent": 12
-          },
-          {
-            "created": "2023-09-05 17:10:42",
-            "time_spent": 21
-          },
-          {
-            "created": "2023-09-06 14:50:54",
-            "time_spent": 4
-          },
-          {
-            "created": "2023-09-06 18:15:43",
-            "time_spent": 57
-          },
-          {
-            "created": "2023-09-06 18:31:05",
-            "time_spent": 11
-          },
-          {
-            "created": "2023-09-07 16:01:26",
-            "time_spent": 46
-          },
-          {
-            "created": "2023-09-07 16:43:00",
-            "time_spent": 4
-          },
-          {
-            "created": "2023-09-11 13:12:29",
-            "time_spent": 52
+            "created": "2023-09-14 18:46:11",
+            "time_spent": 49
           }
         ],
-        "Total_sum": 886,
-        "Total_sum_with_hours": "14:46",
-        "Role": "Младший аналитик",
-        "Customer": "Web-Regata/Веб-регата"
+        "Total_sum": 127,
+        "Total_sum_with_hours": "02:07",
+        "Role": "Менеджер проектов",
+        "Customer": "Атлас Девелопмент"
       }
     },
-    "12940512": {
+    "19536660": {
+      "Мария Никифорова": {
+        "Time_spent": [
+          {
+            "created": "2023-09-18 10:18:30",
+            "time_spent": 18
+          }
+        ],
+        "Total_sum": 18,
+        "Total_sum_with_hours": "00:18",
+        "Role": "Младший аналитик",
+        "Customer": "Святой Михаил"
+      },
       "Андрей Дакалов": {
         "Time_spent": [
           {
-            "created": "2023-08-22 17:06:23",
-            "time_spent": 4
+            "created": "2023-09-18 10:32:23",
+            "time_spent": 20
           }
         ],
-        "Total_sum": 4,
-        "Total_sum_with_hours": "00:04",
+        "Total_sum": 20,
+        "Total_sum_with_hours": "00:20",
         "Role": "Внедрение",
-        "Customer": "Nedvix/Недвикс"
+        "Customer": "Святой Михаил"
       }
     },
-    "18748532": {
+    "10930889": {
       "Роман Балуков": {
         "Time_spent": [
           {
-            "created": "2023-09-08 10:47:40",
-            "time_spent": 4
+            "created": "2023-09-15 16:03:55",
+            "time_spent": 52
           }
         ],
-        "Total_sum": 4,
-        "Total_sum_with_hours": "00:04",
+        "Total_sum": 52,
+        "Total_sum_with_hours": "00:52",
         "Role": "Менеджер проектов",
+        "Customer": "DVA group/Два Групп"
+      },
+      "Василий Матрюк": {
+        "Time_spent": [
+          {
+            "created": "2023-09-16 09:49:49",
+            "time_spent": 11
+          }
+        ],
+        "Total_sum": 11,
+        "Total_sum_with_hours": "00:11",
+        "Role": "СТП 2 линия",
+        "Customer": "DVA group/Два Групп"
+      }
+    },
+    "19383774": {
+      "Роман Балуков": {
+        "Time_spent": [
+          {
+            "created": "2023-09-15 18:49:57",
+            "time_spent": 46
+          }
+        ],
+        "Total_sum": 46,
+        "Total_sum_with_hours": "00:46",
+        "Role": "Менеджер проектов",
+        "Customer": "DVA group/Два Групп"
+      }
+    },
+    "18567406": {
+      "Михаил Лаптов": {
+        "Time_spent": [
+          {
+            "created": "2023-09-06 14:12:02",
+            "time_spent": 72
+          },
+          {
+            "created": "2023-09-06 17:17:59",
+            "time_spent": 17
+          },
+          {
+            "created": "2023-09-08 17:52:18",
+            "time_spent": 2
+          },
+          {
+            "created": "2023-09-11 17:23:42",
+            "time_spent": 42
+          },
+          {
+            "created": "2023-09-15 18:28:15",
+            "time_spent": 42
+          },
+          {
+            "created": "2023-09-15 17:57:03",
+            "time_spent": 124
+          }
+        ],
+        "Total_sum": 299,
+        "Total_sum_with_hours": "04:59",
+        "Role": "Менеджер проектов",
+        "Customer": "DVA group/Два Групп"
+      },
+      "Андрей Дакалов": {
+        "Time_spent": [
+          {
+            "created": "2023-09-15 16:14:51",
+            "time_spent": 5
+          },
+          {
+            "created": "2023-09-15 17:56:34",
+            "time_spent": 9
+          }
+        ],
+        "Total_sum": 14,
+        "Total_sum_with_hours": "00:14",
+        "Role": "Внедрение",
         "Customer": "DVA group/Два Групп"
       }
     },
@@ -4090,10 +4336,14 @@
           {
             "created": "2023-09-08 17:44:04",
             "time_spent": 47
+          },
+          {
+            "created": "2023-09-15 17:43:50",
+            "time_spent": 64
           }
         ],
-        "Total_sum": 516,
-        "Total_sum_with_hours": "08:36",
+        "Total_sum": 580,
+        "Total_sum_with_hours": "09:40",
         "Role": "Внедрение",
         "Customer": "Административные решения/Админка"
       },
@@ -4110,323 +4360,238 @@
         "Customer": "Административные решения/Админка"
       }
     },
-    "16187915": {
-      "Мария Никифорова": {
+    "16329953": {
+      "Анрей Губашов": {
         "Time_spent": [
           {
-            "created": "2023-08-17 12:53:12",
-            "time_spent": 11
-          }
-        ],
-        "Total_sum": 11,
-        "Total_sum_with_hours": "00:11",
-        "Role": "Младший аналитик",
-        "Customer": "TNF / Bernstein / ТНФ / Бернштейн"
-      },
-      "Андрей Дакалов": {
-        "Time_spent": [
-          {
-            "created": "2023-08-17 13:06:33",
+            "created": "2023-08-22 16:18:13",
             "time_spent": 4
           },
           {
-            "created": "2023-08-17 13:16:03",
-            "time_spent": 4
-          }
-        ],
-        "Total_sum": 8,
-        "Total_sum_with_hours": "00:08",
-        "Role": "Внедрение",
-        "Customer": "TNF / Bernstein / ТНФ / Бернштейн"
-      }
-    },
-    "16645913": {
-      "Андрей Дакалов": {
-        "Time_spent": [
-          {
-            "created": "2023-08-21 11:43:32",
-            "time_spent": 7
-          }
-        ],
-        "Total_sum": 7,
-        "Total_sum_with_hours": "00:07",
-        "Role": "Внедрение",
-        "Customer": "TNF / Bernstein / ТНФ / Бернштейн"
-      },
-      "Мария Никифорова": {
-        "Time_spent": [
-          {
-            "created": "2023-08-21 12:01:33",
-            "time_spent": 29
-          }
-        ],
-        "Total_sum": 29,
-        "Total_sum_with_hours": "00:29",
-        "Role": "Менеджер проектов",
-        "Customer": "TNF / Bernstein / ТНФ / Бернштейн"
-      }
-    },
-    "16731164": {
-      "Мария Никифорова": {
-        "Time_spent": [
-          {
-            "created": "2023-08-22 13:22:34",
-            "time_spent": 25
+            "created": "2023-08-22 16:22:15",
+            "time_spent": 1
           },
           {
-            "created": "2023-08-22 14:43:09",
-            "time_spent": 26
+            "created": "2023-08-22 16:26:56",
+            "time_spent": 1
           },
           {
-            "created": "2023-08-21 16:51:05",
-            "time_spent": 30
+            "created": "2023-08-21 01:44:04",
+            "time_spent": 164
           },
           {
-            "created": "2023-08-23 11:24:05",
-            "time_spent": 12
+            "created": "2023-08-22 17:22:56",
+            "time_spent": 147
           },
           {
-            "created": "2023-08-22 11:21:35",
-            "time_spent": 33
-          },
-          {
-            "created": "2023-08-22 12:15:48",
-            "time_spent": 15
-          },
-          {
-            "created": "2023-08-24 16:56:52",
-            "time_spent": 19
-          },
-          {
-            "created": "2023-08-24 17:46:01",
-            "time_spent": 7
-          }
-        ],
-        "Total_sum": 167,
-        "Total_sum_with_hours": "02:47",
-        "Role": "Младший аналитик",
-        "Customer": "TNF / Bernstein / ТНФ / Бернштейн"
-      },
-      "Андрей Дакалов": {
-        "Time_spent": [
-          {
-            "created": "2023-08-22 13:44:57",
-            "time_spent": 18
-          },
-          {
-            "created": "2023-08-22 13:58:23",
-            "time_spent": 6
-          },
-          {
-            "created": "2023-08-22 14:32:28",
-            "time_spent": 2
-          },
-          {
-            "created": "2023-08-22 14:48:00",
+            "created": "2023-08-18 12:39:03",
             "time_spent": 9
+          },
+          {
+            "created": "2023-08-24 10:57:32",
+            "time_spent": 49
+          },
+          {
+            "created": "2023-09-11 09:57:18",
+            "time_spent": 611
+          },
+          {
+            "created": "2023-09-15 15:15:27",
+            "time_spent": 240
           }
         ],
-        "Total_sum": 35,
-        "Total_sum_with_hours": "00:35",
+        "Total_sum": 1226,
+        "Total_sum_with_hours": "20:26",
         "Role": "Внедрение",
-        "Customer": "TNF / Bernstein / ТНФ / Бернштейн"
+        "Customer": "Web-Regata/Веб-регата"
+      },
+      "Мария Никифорова": {
+        "Time_spent": [
+          {
+            "created": "2023-08-22 16:28:34",
+            "time_spent": 20
+          },
+          {
+            "created": "2023-08-21 09:53:00",
+            "time_spent": 8
+          },
+          {
+            "created": "2023-08-18 09:58:51",
+            "time_spent": 21
+          },
+          {
+            "created": "2023-08-30 09:47:10",
+            "time_spent": 37
+          },
+          {
+            "created": "2023-09-15 16:38:54",
+            "time_spent": 28
+          }
+        ],
+        "Total_sum": 114,
+        "Total_sum_with_hours": "01:54",
+        "Role": "Младший аналитик",
+        "Customer": "Web-Regata/Веб-регата"
       }
     },
-    "17682070": {
+    "19499073": {
       "Роман Балуков": {
         "Time_spent": [
           {
-            "created": "2023-08-29 15:51:35",
-            "time_spent": 65
-          },
-          {
-            "created": "2023-08-29 16:25:57",
-            "time_spent": 15
-          },
-          {
-            "created": "2023-09-08 17:00:28",
-            "time_spent": 7
-          },
-          {
-            "created": "2023-09-08 16:38:39",
-            "time_spent": 64
+            "created": "2023-09-15 14:14:58",
+            "time_spent": 24
           }
         ],
-        "Total_sum": 151,
-        "Total_sum_with_hours": "02:31",
+        "Total_sum": 24,
+        "Total_sum_with_hours": "00:24",
         "Role": "Менеджер проектов",
         "Customer": "Прометей"
       }
     },
-    "18682415": {
-      "Михаил Лаптов": {
+    "18618665": {
+      "Василий Матрюк": {
         "Time_spent": [
           {
-            "created": "2023-09-07 15:44:45",
-            "time_spent": 180
-          },
-          {
-            "created": "2023-09-07 16:53:08",
-            "time_spent": 20
-          },
-          {
-            "created": "2023-09-07 19:42:08",
-            "time_spent": 101
-          },
-          {
-            "created": "2023-09-08 15:29:10",
-            "time_spent": 44
+            "created": "2023-09-08 16:16:12",
+            "time_spent": 47
           }
         ],
-        "Total_sum": 345,
-        "Total_sum_with_hours": "05:45",
-        "Role": "Менеджер проектов",
-        "Customer": "Атлас Девелопмент"
+        "Total_sum": 47,
+        "Total_sum_with_hours": "00:47",
+        "Role": "СТП 1 линия",
+        "Customer": "Прометей"
       },
       "Андрей Дакалов": {
         "Time_spent": [
           {
-            "created": "2023-09-07 17:16:31",
-            "time_spent": 20
-          },
-          {
-            "created": "2023-09-07 17:24:09",
-            "time_spent": 28
+            "created": "2023-09-14 10:13:46",
+            "time_spent": 31
           }
         ],
-        "Total_sum": 48,
-        "Total_sum_with_hours": "00:48",
+        "Total_sum": 31,
+        "Total_sum_with_hours": "00:31",
         "Role": "Внедрение",
-        "Customer": "Атлас Девелопмент"
-      }
-    },
-    "18408348": {
-      "Михаил Лаптов": {
+        "Customer": "Прометей"
+      },
+      "Анрей Губашов": {
         "Time_spent": [
           {
-            "created": "2023-09-04 17:45:31",
-            "time_spent": 135
-          },
-          {
-            "created": "2023-09-04 18:54:01",
-            "time_spent": 68
-          },
-          {
-            "created": "2023-09-05 17:03:22",
-            "time_spent": 85
-          },
-          {
-            "created": "2023-09-05 19:08:13",
-            "time_spent": 83
-          },
-          {
-            "created": "2023-09-06 13:00:23",
-            "time_spent": 30
-          },
-          {
-            "created": "2023-09-06 18:47:12",
-            "time_spent": 89
-          },
-          {
-            "created": "2023-09-07 18:19:57",
-            "time_spent": 75
-          },
-          {
-            "created": "2023-09-08 12:59:11",
-            "time_spent": 46
-          },
-          {
-            "created": "2023-09-08 14:59:26",
-            "time_spent": 29
+            "created": "2023-09-15 14:00:37",
+            "time_spent": 61
           }
         ],
-        "Total_sum": 640,
-        "Total_sum_with_hours": "10:40",
-        "Role": "Менеджер проектов",
-        "Customer": "DVA group/Два Групп"
+        "Total_sum": 61,
+        "Total_sum_with_hours": "01:01",
+        "Role": "Бизнес-аналитик",
+        "Customer": "Прометей"
+      }
+    },
+    "18116200": {
+      "Андрей Дакалов": {
+        "Time_spent": [
+          {
+            "created": "2023-09-01 09:33:36",
+            "time_spent": 4
+          }
+        ],
+        "Total_sum": 4,
+        "Total_sum_with_hours": "00:04",
+        "Role": "Внедрение",
+        "Customer": "TNF / Bernstein / ТНФ / Бернштейн"
+      },
+      "Мария Никифорова": {
+        "Time_spent": [
+          {
+            "created": "2023-09-01 10:44:57",
+            "time_spent": 9
+          }
+        ],
+        "Total_sum": 9,
+        "Total_sum_with_hours": "00:09",
+        "Role": "Младший аналитик",
+        "Customer": "TNF / Bernstein / ТНФ / Бернштейн"
       }
     }
   },
   "total_time_per_card": {
-    "16329953": 1340,
-    "16862646": 1394,
-    "18567406": 138,
+    "20087589": 462,
+    "19868173": 225,
+    "17778144": 260,
+    "17779823": 1756,
+    "11045172": 1798,
+    "20287524": 288,
+    "10898009": 3736,
+    "13691156": 990,
+    "19349281": 5,
+    "20021688": 72,
+    "16862646": 2132,
+    "20181829": 383,
+    "20331921": 37,
+    "12920381": 120,
+    "13088071": 1043,
+    "10927565": 2613,
+    "18204164": 870,
+    "20204766": 22,
+    "20220995": 7,
+    "18570821": 135,
+    "20209987": 46,
+    "12031193": 127,
+    "19170379": 156,
+    "20171134": 20,
+    "19046372": 38,
+    "19926484": 48,
+    "17789332": 248,
+    "17016568": 255,
+    "16062920": 426,
+    "10708756": 8,
+    "17048452": 45,
+    "18471822": 98,
+    "10735055": 77,
+    "12416725": 446,
+    "11221969": 134,
+    "20097362": 16,
+    "19861385": 35,
+    "11338950": 2524,
+    "10965374": 191,
+    "18908729": 56,
+    "19937380": 32,
+    "11294812": 121,
+    "12751483": 275,
+    "12084817": 14,
+    "11470639": 12,
+    "18976846": 321,
+    "18374831": 33,
+    "19190394": 105,
+    "18202132": 234,
     "19486279": 109,
-    "10930889": 52,
+    "17926839": 79,
+    "18207065": 79,
+    "11098988": 6,
+    "17002628": 260,
+    "17162568": 19,
+    "15200271": 970,
+    "12925312": 362,
     "19509984": 2,
-    "10898009": 3473,
+    "15956474": 172,
+    "11528483": 129,
+    "19192029": 127,
+    "19536660": 38,
+    "10930889": 63,
+    "19383774": 46,
+    "18567406": 313,
+    "10974671": 599,
+    "16329953": 1340,
     "19499073": 24,
     "18618665": 139,
-    "11045172": 1548,
-    "18116200": 13,
-    "10930921": 251,
-    "10930895": 305,
-    "10930763": 5,
-    "19490703": 19,
-    "17779823": 1144,
-    "19485005": 4,
-    "19367525": 87,
-    "10927565": 2456,
-    "16431814": 2357,
-    "19192029": 98,
-    "18976846": 236,
-    "19358501": 43,
-    "18908729": 56,
-    "19170379": 156,
-    "16062920": 380,
-    "19349281": 5,
-    "18033254": 111,
-    "19320759": 48,
-    "13088071": 1011,
-    "19330729": 72,
-    "19038235": 18,
-    "11221969": 102,
-    "19190394": 105,
-    "12031193": 120,
-    "18204164": 798,
-    "11338950": 2485,
-    "18981163": 179,
-    "18915404": 12,
-    "10735055": 77,
-    "18450344": 40,
-    "18568716": 135,
-    "18955508": 14,
-    "15690093": 39,
-    "15200271": 970,
-    "17579845": 39,
-    "18098922": 436,
-    "18359950": 80,
-    "18446370": 17,
-    "18569845": 81,
-    "13916603": 104,
-    "15191116": 222,
-    "18577988": 181,
-    "18374831": 33,
-    "18908828": 15,
-    "18455845": 7,
-    "18882031": 78,
-    "17587364": 15,
-    "10708756": 2,
-    "17778144": 220,
-    "16338461": 704,
-    "13691156": 886,
-    "12940512": 4,
-    "18748532": 4,
-    "10974671": 535,
-    "16187915": 19,
-    "16645913": 36,
-    "16731164": 202,
-    "17682070": 151,
-    "18682415": 393,
-    "18408348": 640
+    "18116200": 13
   },
   "total_time_per_user": {
-    "Анрей Губашов": 1287,
-    "Мария Никифорова": 4726,
-    "Андрей Дакалов": 12213,
-    "Михаил Лаптов": 6068,
-    "Роман Балуков": 2533,
-    "Василий Матрюк": 225,
-    "Инна Пильщикова": 222
+    "Андрей Дакалов": 13348,
+    "Роман Балуков": 2551,
+    "Михаил Лаптов": 5920,
+    "Мария Никифорова": 4556,
+    "Инна Пильщикова": 186,
+    "Василий Матрюк": 136,
+    "Анрей Губашов": 1287
   }
 }

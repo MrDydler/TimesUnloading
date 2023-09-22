@@ -13010,7 +13010,7 @@
     "project_id": 176063518,
     "project_name": "Святой Михаил",
     "billable": false,
-    "description": "Трачу время на Идалайт и СВ с коллтачом",
+    "description": "Трачу время на Ида и СВ с коллтачом",
     "time_entries": [
       {
         "id": 3126221193,
@@ -20043,6 +20043,23 @@
     ]
   },
   {
+    "user_id": 8431059,
+    "username": "V Matruk",
+    "project_id": 176063518,
+    "project_name": "Святой Михаил",
+    "billable": false,
+    "description": "Не поладки с фидом, не правильно прогружается",
+    "time_entries": [
+      {
+        "id": 3124822531,
+        "seconds": 2400,
+        "start": "2023-09-13 23:17:00",
+        "stop": "2023-09-13 23:57:00",
+        "normal_time": "00:40"
+      }
+    ]
+  },
+  {
     "user_id": 7819625,
     "username": "WEB-regata",
     "project_id": 176063492,
@@ -26431,6 +26448,23 @@
         "start": "2023-09-08 20:30:00",
         "stop": "2023-09-08 20:56:47",
         "normal_time": "00:26"
+      }
+    ]
+  },
+  {
+    "user_id": 7819625,
+    "username": "WEB-regata",
+    "project_id": 176063528,
+    "project_name": "Шелковый путь/ТНФ/Бернштейн",
+    "billable": true,
+    "description": "Отправка писем с tilda",
+    "time_entries": [
+      {
+        "id": 3126630503,
+        "seconds": 1740,
+        "start": "2023-09-14 23:47:31",
+        "stop": "2023-09-15 00:16:31",
+        "normal_time": "00:29"
       }
     ]
   }
