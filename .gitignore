@@ -1,5 +1,5 @@
 # Ignore config.txt
 config.txt
-
+.json
 # Ignore __pycache__ folders
 __pycache__/
