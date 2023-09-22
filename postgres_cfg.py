@@ -28,6 +28,15 @@ print(db_name)
 # port = 5433
 
 
+def load_user_data(user_id):
+    # Load user data from toggleuserjs.json
+    with open("toggleusers.json", "r") as json_file:
+        data = json.load(json_file)
+        for entry in data:
+            if entry["user_id"] == user_id:
+                return entry
+
+    return {}  # Return an empty dictionary if user data is not found
 
 
 def postgres_toggle(report_toggle_path, toggle_table_name):
@@ -48,6 +57,7 @@ def postgres_toggle(report_toggle_path, toggle_table_name):
                     id SERIAL PRIMARY KEY,
                     user_id INTEGER,
                     username TEXT,
+                    email TEXT,
                     project_id INTEGER,
                     project_name TEXT,
                     description TEXT,
@@ -73,6 +83,7 @@ def postgres_toggle(report_toggle_path, toggle_table_name):
                 project_id = entry["project_id"]
                 project_name = entry["project_name"]
                 description = entry["description"]
+                user_data = load_user_data(user_id)
                 for times in entry["time_entries"]:
                     time_id = times["id"]
                     seconds = times["seconds"]
@@ -80,14 +91,15 @@ def postgres_toggle(report_toggle_path, toggle_table_name):
                     stop_time = times["stop"]
                     normal_time = times["normal_time"]
                     mins = times["mins"]
+                    email = user_data["email"]
                     
                     #SQL INSERT
                     insert_sql = f"""
-                    INSERT INTO {toggle_table_name} (user_id, username, project_id, project_name, description, time_id, seconds, start_time, stop_time, mins, normal_time)
-                    VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+                    INSERT INTO {toggle_table_name} (user_id, username, email, project_id, project_name, description, time_id, seconds, start_time, stop_time, mins, normal_time)
+                    VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
                     """
                     # Исключение
-                    cursor.execute(insert_sql, (user_id, username, project_id,project_name, description, time_id, seconds, start_time, stop_time, mins, normal_time))
+                    cursor.execute(insert_sql, (user_id, username, email, project_id,project_name, description, time_id, seconds, start_time, stop_time, mins, normal_time))
                     connection.commit()
                     
     except Exception as ex:

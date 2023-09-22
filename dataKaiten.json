@@ -1,7 +1,7 @@
 [
   {
-    "Card ID": 10927565,
-    "Card Name": "разбор задач в Kaiten",
+    "Card ID": 20087589,
+    "Card Name": "Ойкумена и МЧ для переезда на moreKIT",
     "User": "Андрей Дакалов",
     "User's Email": "a.dakalov@web-regata.ru",
     "User Role": "a_dakalov",
@@ -9,13 +9,29 @@
     "Last Comment Date": null,
     "Property": {
       "id_181703": [
-        72140
+        54947
       ]
     },
     "Card Type": "Card",
     "Space": "#Административные решения",
-    "Time_spent": 2653,
-    "Time_spent_with_hours": "44:13"
+    "Time_spent": 520,
+    "Time_spent_with_hours": "08:40"
+  },
+  {
+    "Card ID": 18618665,
+    "Card Name": "Документооборот",
+    "User": "Василий Матрюк",
+    "User's Email": "matruk.v@web-regata.ru",
+    "User Role": "matruk_v",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_198397": "Откуда пришел запрос?"
+    },
+    "Card Type": "Сопровождение",
+    "Space": "#Внедрение",
+    "Time_spent": 139,
+    "Time_spent_with_hours": "02:19"
   },
   {
     "Card ID": 20181829,
@@ -32,8 +48,26 @@
     },
     "Card Type": "Card",
     "Space": "R4S",
-    "Time_spent": 532,
-    "Time_spent_with_hours": "08:52"
+    "Time_spent": 554,
+    "Time_spent_with_hours": "09:14"
+  },
+  {
+    "Card ID": 10927565,
+    "Card Name": "разбор задач в Kaiten",
+    "User": "Андрей Дакалов",
+    "User's Email": "a.dakalov@web-regata.ru",
+    "User Role": "a_dakalov",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        72140
+      ]
+    },
+    "Card Type": "Card",
+    "Space": "#Административные решения",
+    "Time_spent": 2653,
+    "Time_spent_with_hours": "44:13"
   },
   {
     "Card ID": 11045172,
@@ -106,24 +140,6 @@
     "Space": "#Административные решения",
     "Time_spent": 3758,
     "Time_spent_with_hours": "62:38"
-  },
-  {
-    "Card ID": 20087589,
-    "Card Name": "Ойкумена и МЧ для переезда на moreKIT",
-    "User": "Андрей Дакалов",
-    "User's Email": "a.dakalov@web-regata.ru",
-    "User Role": "a_dakalov",
-    "Comment": null,
-    "Last Comment Date": null,
-    "Property": {
-      "id_181703": [
-        54947
-      ]
-    },
-    "Card Type": "Card",
-    "Space": "#Административные решения",
-    "Time_spent": 462,
-    "Time_spent_with_hours": "07:42"
   },
   {
     "Card ID": 19868173,
@@ -1264,22 +1280,6 @@
     "Space": "Прометей",
     "Time_spent": 24,
     "Time_spent_with_hours": "00:24"
-  },
-  {
-    "Card ID": 18618665,
-    "Card Name": "Документооборот",
-    "User": "Василий Матрюк",
-    "User's Email": "matruk.v@web-regata.ru",
-    "User Role": "matruk_v",
-    "Comment": null,
-    "Last Comment Date": null,
-    "Property": {
-      "id_198397": "Откуда пришел запрос?"
-    },
-    "Card Type": "Сопровождение",
-    "Space": "#Внедрение",
-    "Time_spent": 139,
-    "Time_spent_with_hours": "02:19"
   },
   {
     "Card ID": 18116200,
