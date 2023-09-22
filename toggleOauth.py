@@ -8,7 +8,7 @@ workspace_regata_id = 5821463
 
 # response = requests.post(
 #     'https://api.track.toggl.com/api/v9/me/sessions',
-#     auth=('34ad55a0cc805cab499ff08332eca792', 'api_token'),
+#     auth=('token', 'api_token'),
 # )
 # print(response.json())
 # print("response_ANSWER ", response.status_code)
