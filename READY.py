@@ -2,11 +2,13 @@ import requests
 from base64 import b64encode
 import json
 from datetime import datetime, timedelta
-
+import time
 from postgres_cfg import postgres_toggle, create_kaiten_times_table, create_data_kaiten_table
 import psycopg2
 from postgres_cfg import user, password, db_name, host, port
 import configparser
+
+from retrying import retry 
 
 #configParser
 config = configparser.ConfigParser()
@@ -233,7 +235,7 @@ else:
     print("Ошибка получения данных", response.status_code)
     print("Контент запроса:", response.text)
 
-
+@retry(wait_fixed=2000, stop_max_attempt_number=5)
 def get_card_time_logs(card_id):
     time_logs_url = f"https://web-regata.kaiten.ru/api/latest/cards/{card_id}/time-logs"
     response = requests.get(time_logs_url, headers=headers)
@@ -241,9 +243,17 @@ def get_card_time_logs(card_id):
     if response.status_code == 200:
         time_logs_data = response.json()
         return time_logs_data
+    elif response.status_code == 429:
+        time.sleep(2)
+        response = requests.get(time_logs_url, headers=headers)
+        print("повторная отправка запроса", response.status_code)
+        time_logs_data = response.json()
+        return time_logs_data
     else:
         print(f"Ошибка при выборке журналов времени для карты {card_id}. Статус: {response.status_code}")
+        response.raise_for_status()
         return []
+
 
 # Загружаем айдишники из общей выгрузки карточек JSON file
 with open("dataKaiten.json", "r") as json_file:
@@ -276,6 +286,20 @@ for card in cards_data:
 
         elif response.status_code == 404:
             print(f"Customer data not found for property value {custom_property_value}: {response.status_code}")
+            #повторная отправка
+        elif response.status_code == 429:
+            time.sleep(1)
+            response = requests.get(custom_property_url, headers=headers)
+            print(f"повторная отправка запроса для {custom_property_value} отправка прошла с кодом {response.status_code}")
+            try:
+                customer_data = response.json()
+                if customer_data is not None:
+                    customer_name = customer_data.get("value", "N/A")
+                    if card_id in time_logs_data:
+                        if user_name in time_logs_data[card_id]:
+                            time_logs_data[card_id][user_name]["Customer"] = customer_name
+            except json.JSONDecodeError as e:
+                print(f"Error decoding JSON response for customer data: {e}")
         else:
             # Handle other potential errors
             print(f"Error fetching customer data for property value {custom_property_value}: {response.status_code}")

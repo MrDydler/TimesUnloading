@@ -1,5 +1,59 @@
 [
   {
+    "Card ID": 19868173,
+    "Card Name": "Меркурий. Интеграция Ройстат",
+    "User": "Роман Балуков",
+    "User's Email": "roman@web-regata.ru",
+    "User Role": "roman23",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        54927
+      ]
+    },
+    "Card Type": "Card",
+    "Space": "#Внедрение",
+    "Time_spent": 247,
+    "Time_spent_with_hours": "04:07"
+  },
+  {
+    "Card ID": 11221969,
+    "Card Name": "Синергия.",
+    "User": "Роман Балуков",
+    "User's Email": "roman@web-regata.ru",
+    "User Role": "roman23",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        55944
+      ]
+    },
+    "Card Type": "Card",
+    "Space": "#Внедрение",
+    "Time_spent": 139,
+    "Time_spent_with_hours": "02:19"
+  },
+  {
+    "Card ID": 20181829,
+    "Card Name": "Аудит - Настройка",
+    "User": "Роман Балуков",
+    "User's Email": "roman@web-regata.ru",
+    "User Role": "roman23",
+    "Comment": null,
+    "Last Comment Date": null,
+    "Property": {
+      "id_181703": [
+        60199
+      ]
+    },
+    "Card Type": "Card",
+    "Space": "R4S",
+    "Time_spent": 582,
+    "Time_spent_with_hours": "09:42"
+  },
+  {
     "Card ID": 20087589,
     "Card Name": "Ойкумена и МЧ для переезда на moreKIT",
     "User": "Андрей Дакалов",
@@ -32,24 +86,6 @@
     "Space": "#Внедрение",
     "Time_spent": 139,
     "Time_spent_with_hours": "02:19"
-  },
-  {
-    "Card ID": 20181829,
-    "Card Name": "Аудит - Настройка",
-    "User": "Роман Балуков",
-    "User's Email": "roman@web-regata.ru",
-    "User Role": "roman23",
-    "Comment": null,
-    "Last Comment Date": null,
-    "Property": {
-      "id_181703": [
-        60199
-      ]
-    },
-    "Card Type": "Card",
-    "Space": "R4S",
-    "Time_spent": 554,
-    "Time_spent_with_hours": "09:14"
   },
   {
     "Card ID": 10927565,
@@ -140,24 +176,6 @@
     "Space": "#Административные решения",
     "Time_spent": 3758,
     "Time_spent_with_hours": "62:38"
-  },
-  {
-    "Card ID": 19868173,
-    "Card Name": "Меркурий. Интеграция Ройстат",
-    "User": "Роман Балуков",
-    "User's Email": "roman@web-regata.ru",
-    "User Role": "roman23",
-    "Comment": null,
-    "Last Comment Date": null,
-    "Property": {
-      "id_181703": [
-        54927
-      ]
-    },
-    "Card Type": "Card",
-    "Space": "#Внедрение",
-    "Time_spent": 225,
-    "Time_spent_with_hours": "03:45"
   },
   {
     "Card ID": 17778144,
@@ -657,24 +675,6 @@
     "Space": "#Внедрение",
     "Time_spent": 446,
     "Time_spent_with_hours": "07:26"
-  },
-  {
-    "Card ID": 11221969,
-    "Card Name": "Синергия.",
-    "User": "Роман Балуков",
-    "User's Email": "roman@web-regata.ru",
-    "User Role": "roman23",
-    "Comment": null,
-    "Last Comment Date": null,
-    "Property": {
-      "id_181703": [
-        55944
-      ]
-    },
-    "Card Type": "Card",
-    "Space": "#Внедрение",
-    "Time_spent": 134,
-    "Time_spent_with_hours": "02:14"
   },
   {
     "Card ID": 20097362,
