@@ -1,0 +1,6 @@
+# Ignore config.txt
+config.txt
+*.json
+!spec/*.json
+# Ignore __pycache__ folders
+__pycache__/
